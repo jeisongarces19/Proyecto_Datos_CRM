@@ -750,7 +750,7 @@
   {
     "cantidad": 4,
     "id": 62386,
-    "precio_acumulado": 1128.0,
+    "precio_acumulado": 4074000.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12758,
@@ -1850,7 +1850,7 @@
   {
     "cantidad": 4,
     "id": 62384,
-    "precio_acumulado": 1308.0,
+    "precio_acumulado": 4657800.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12758,
@@ -2092,7 +2092,7 @@
   {
     "cantidad": 4,
     "id": 66667,
-    "precio_acumulado": 4544000.0,
+    "precio_acumulado": 4771200.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12758,
@@ -2285,6 +2285,1678 @@
       "observaciones": ""
     },
     "tipologia_id": "22000126079"
+  },
+  {
+    "cantidad": 1,
+    "id": 61395,
+    "precio_acumulado": 50.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000112801"
+  },
+  {
+    "cantidad": 1,
+    "id": 61537,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000116889"
+  },
+  {
+    "cantidad": 1,
+    "id": 61523,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000116884"
+  },
+  {
+    "cantidad": 1,
+    "id": 61576,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000118620"
+  },
+  {
+    "cantidad": 1,
+    "id": 61585,
+    "precio_acumulado": 50.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000118621"
+  },
+  {
+    "cantidad": 1,
+    "id": 61517,
+    "precio_acumulado": 50.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000116883"
+  },
+  {
+    "cantidad": 1,
+    "id": 62376,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126035"
+  },
+  {
+    "cantidad": 1,
+    "id": 62382,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126036"
+  },
+  {
+    "cantidad": 1,
+    "id": 62557,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126073"
+  },
+  {
+    "cantidad": 1,
+    "id": 62610,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126079"
+  },
+  {
+    "cantidad": 1,
+    "id": 62835,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126115"
+  },
+  {
+    "cantidad": 1,
+    "id": 62818,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126113"
+  },
+  {
+    "cantidad": 1,
+    "id": 62827,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126114"
+  },
+  {
+    "cantidad": 1,
+    "id": 62844,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126116"
+  },
+  {
+    "cantidad": 1,
+    "id": 62856,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126117"
+  },
+  {
+    "cantidad": 1,
+    "id": 63220,
+    "precio_acumulado": 50.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126201"
+  },
+  {
+    "cantidad": 1,
+    "id": 63234,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126203"
+  },
+  {
+    "cantidad": 1,
+    "id": 63230,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126202"
+  },
+  {
+    "cantidad": 1,
+    "id": 63241,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126204"
+  },
+  {
+    "cantidad": 1,
+    "id": 63514,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126361"
+  },
+  {
+    "cantidad": 1,
+    "id": 64858,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 1,
+    "id": 64870,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
+    "cantidad": 1,
+    "id": 64978,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131795"
+  },
+  {
+    "cantidad": 1,
+    "id": 64994,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131797"
+  },
+  {
+    "cantidad": 1,
+    "id": 65003,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131799"
+  },
+  {
+    "cantidad": 1,
+    "id": 65023,
+    "precio_acumulado": 50.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131803"
+  },
+  {
+    "cantidad": 1,
+    "id": 65018,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131801"
+  },
+  {
+    "cantidad": 1,
+    "id": 64996,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131798"
+  },
+  {
+    "cantidad": 1,
+    "id": 64971,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131794"
+  },
+  {
+    "cantidad": 1,
+    "id": 64986,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131796"
+  },
+  {
+    "cantidad": 1,
+    "id": 65031,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131804"
+  },
+  {
+    "cantidad": 1,
+    "id": 65038,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131805"
+  },
+  {
+    "cantidad": 1,
+    "id": 65053,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131807"
+  },
+  {
+    "cantidad": 1,
+    "id": 65068,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131809"
+  },
+  {
+    "cantidad": 1,
+    "id": 65081,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131810"
+  },
+  {
+    "cantidad": 1,
+    "id": 65083,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131811"
+  },
+  {
+    "cantidad": 1,
+    "id": 65091,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131812"
+  },
+  {
+    "cantidad": 1,
+    "id": 65099,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131813"
+  },
+  {
+    "cantidad": 1,
+    "id": 65121,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131815"
+  },
+  {
+    "cantidad": 1,
+    "id": 65129,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131817"
+  },
+  {
+    "cantidad": 1,
+    "id": 65150,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131819"
+  },
+  {
+    "cantidad": 1,
+    "id": 65061,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131808"
+  },
+  {
+    "cantidad": 1,
+    "id": 65142,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131818"
+  },
+  {
+    "cantidad": 1,
+    "id": 65128,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131816"
+  },
+  {
+    "cantidad": 1,
+    "id": 65159,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131821"
+  },
+  {
+    "cantidad": 1,
+    "id": 65152,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131820"
+  },
+  {
+    "cantidad": 1,
+    "id": 65050,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131806"
+  },
+  {
+    "cantidad": 1,
+    "id": 65196,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131825"
+  },
+  {
+    "cantidad": 1,
+    "id": 65202,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131826"
+  },
+  {
+    "cantidad": 1,
+    "id": 65211,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131827"
+  },
+  {
+    "cantidad": 1,
+    "id": 65182,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131824"
+  },
+  {
+    "cantidad": 1,
+    "id": 65180,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131823"
+  },
+  {
+    "cantidad": 1,
+    "id": 65172,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131822"
+  },
+  {
+    "cantidad": 1,
+    "id": 65955,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131936"
+  },
+  {
+    "cantidad": 1,
+    "id": 66637,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000132021"
+  },
+  {
+    "cantidad": 1,
+    "id": 66689,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000132027"
+  },
+  {
+    "cantidad": 1,
+    "id": 66659,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000132024"
+  },
+  {
+    "cantidad": 1,
+    "id": 66668,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000132025"
+  },
+  {
+    "cantidad": 1,
+    "id": 66726,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000132031"
+  },
+  {
+    "cantidad": 1,
+    "id": 71090,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000134251"
+  },
+  {
+    "cantidad": 1,
+    "id": 71099,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000134252"
+  },
+  {
+    "cantidad": 1,
+    "id": 63520,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126362"
+  },
+  {
+    "cantidad": 1,
+    "id": 61492,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000116873"
+  },
+  {
+    "cantidad": 1,
+    "id": 66641,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000132022"
+  },
+  {
+    "cantidad": 1,
+    "id": 66703,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000132029"
+  },
+  {
+    "cantidad": 1,
+    "id": 64894,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131776"
+  },
+  {
+    "cantidad": 1,
+    "id": 66715,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000132030"
+  },
+  {
+    "cantidad": 1,
+    "id": 66729,
+    "precio_acumulado": 50.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000132032"
+  },
+  {
+    "cantidad": 1,
+    "id": 66676,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000132026"
+  },
+  {
+    "cantidad": 1,
+    "id": 66650,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000132023"
+  },
+  {
+    "cantidad": 1,
+    "id": 65113,
+    "precio_acumulado": 181000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131814"
+  },
+  {
+    "cantidad": 1,
+    "id": 62549,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126072"
+  },
+  {
+    "cantidad": 1,
+    "id": 61379,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000104992"
+  },
+  {
+    "cantidad": 1,
+    "id": 62812,
+    "precio_acumulado": 50.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126112"
+  },
+  {
+    "cantidad": 1,
+    "id": 61436,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000116413"
+  },
+  {
+    "cantidad": 1,
+    "id": 66697,
+    "precio_acumulado": 190050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000009982",
+      "descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 832,
+        "nombre": "22000009982",
+        "ubicacion": "uploads/2021/5/19/19_42_56_263917.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000132028"
   },
   {
     "cantidad": 1,
@@ -4675,6 +6347,28 @@
     "tipologia_id": "22000126061"
   },
   {
+    "cantidad": 2,
+    "id": 63592,
+    "precio_acumulado": 6762000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12623,
+      "codigo": "22000020062",
+      "descripcion": "BIBLIOTECA METALICA 3 ENTREPAÑOS CON PUERTA FORMICA CON MANIJA 132X90X50CM ALMACENAMIENTO ALM1320000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 3106,
+        "nombre": "ALM1320000",
+        "ubicacion": "uploads/2024/3/22/22_28_41_722967.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/3/22/22_28_41_722967.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": "Rematable en ancho P: de 50 a 90cm"
+    },
+    "tipologia_id": "22000126389"
+  },
+  {
     "cantidad": 1,
     "id": 62520,
     "precio_acumulado": 1109850.0,
@@ -4808,28 +6502,6 @@
   },
   {
     "cantidad": 1,
-    "id": 63365,
-    "precio_acumulado": 1345050.0,
-    "producto": {
-      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
-      "categoria_producto_id": 12654,
-      "codigo": "22000020547",
-      "descripcion": "PEDESTAL FIJO RIEL EXTENSION PARCIAL 2 GAVETAS 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 71X40X50CM ALMACENAMIENTO ALM1000000",
-      "especificaciones_id": null,
-      "estado": true,
-      "imagen": {
-        "id": 1891,
-        "nombre": "ALM1000000",
-        "ubicacion": "uploads/2021/8/6/21_8_5_459576.jpg",
-        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/8/6/21_8_5_459576.jpg"
-      },
-      "medida_primaria": "Unidad",
-      "observaciones": ""
-    },
-    "tipologia_id": "22000126313"
-  },
-  {
-    "cantidad": 1,
     "id": 63393,
     "precio_acumulado": 1281000.0,
     "producto": {
@@ -4915,6 +6587,28 @@
       "observaciones": ""
     },
     "tipologia_id": "22000126323"
+  },
+  {
+    "cantidad": 1,
+    "id": 63365,
+    "precio_acumulado": 1345050.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12654,
+      "codigo": "22000020547",
+      "descripcion": "PEDESTAL FIJO RIEL EXTENSION PARCIAL 2 GAVETAS 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 71X40X50CM ALMACENAMIENTO ALM1000000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 1891,
+        "nombre": "ALM1000000",
+        "ubicacion": "uploads/2021/8/6/21_8_5_459576.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/8/6/21_8_5_459576.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126313"
   },
   {
     "cantidad": 1,
@@ -5091,6 +6785,28 @@
       "observaciones": ""
     },
     "tipologia_id": "22000126080"
+  },
+  {
+    "cantidad": 1,
+    "id": 63470,
+    "precio_acumulado": 1367100.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12654,
+      "codigo": "22000020559",
+      "descripcion": "PEDESTAL FIJO RIEL EXTENSION TOTAL 2 GAVETAS 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 71X40X50CM ALMACENAMIENTO ALM1000000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 1891,
+        "nombre": "ALM1000000",
+        "ubicacion": "uploads/2021/8/6/21_8_5_459576.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/8/6/21_8_5_459576.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126346"
   },
   {
     "cantidad": 1,
@@ -5684,7 +7400,7 @@
   {
     "cantidad": 4,
     "id": 62383,
-    "precio_acumulado": 776.0,
+    "precio_acumulado": 2952600.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12661,
@@ -6564,7 +8280,7 @@
   {
     "cantidad": 2,
     "id": 66666,
-    "precio_acumulado": 1724000.0,
+    "precio_acumulado": 1810200.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12661,
@@ -8771,7 +10487,7 @@
   {
     "cantidad": 8,
     "id": 62388,
-    "precio_acumulado": 536.0,
+    "precio_acumulado": 2007600.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12661,
@@ -12291,7 +14007,7 @@
   {
     "cantidad": 4,
     "id": 66669,
-    "precio_acumulado": 896000.0,
+    "precio_acumulado": 1003800.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12661,
@@ -19678,7 +21394,7 @@
   {
     "cantidad": 2,
     "id": 62387,
-    "precio_acumulado": 281.6,
+    "precio_acumulado": 1050000.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12661,
@@ -20184,7 +21900,7 @@
   {
     "cantidad": 2,
     "id": 66673,
-    "precio_acumulado": 1000000.0,
+    "precio_acumulado": 1050000.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12661,
@@ -20866,7 +22582,7 @@
   {
     "cantidad": 3,
     "id": 62389,
-    "precio_acumulado": 359.70000000000005,
+    "precio_acumulado": 1363950.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12661,
@@ -20976,7 +22692,7 @@
   {
     "cantidad": 1,
     "id": 66670,
-    "precio_acumulado": 433000.0,
+    "precio_acumulado": 454650.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12661,
@@ -21480,28 +23196,6 @@
     "tipologia_id": "22000126310"
   },
   {
-    "cantidad": 2,
-    "id": 63359,
-    "precio_acumulado": 688800.0,
-    "producto": {
-      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
-      "categoria_producto_id": 12661,
-      "codigo": "22000032441",
-      "descripcion": "COSTADO SENCILLO TERMINAL PINTADO 60X71CM TIPO LINK ELEMENTOS SOPORTE ELSO090000",
-      "especificaciones_id": null,
-      "estado": true,
-      "imagen": {
-        "id": 2847,
-        "nombre": "ELSO090000",
-        "ubicacion": "uploads/2023/1/14/14_56_40_670556.jpg",
-        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/14_56_40_670556.jpg"
-      },
-      "medida_primaria": "Unidad",
-      "observaciones": ""
-    },
-    "tipologia_id": "22000126313"
-  },
-  {
     "cantidad": 1,
     "id": 63394,
     "precio_acumulado": 328000.0,
@@ -21830,6 +23524,28 @@
       "observaciones": ""
     },
     "tipologia_id": "22000131680"
+  },
+  {
+    "cantidad": 2,
+    "id": 63359,
+    "precio_acumulado": 688800.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000032441",
+      "descripcion": "COSTADO SENCILLO TERMINAL PINTADO 60X71CM TIPO LINK ELEMENTOS SOPORTE ELSO090000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 2847,
+        "nombre": "ELSO090000",
+        "ubicacion": "uploads/2023/1/14/14_56_40_670556.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/14_56_40_670556.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126313"
   },
   {
     "cantidad": 2,
@@ -25528,28 +27244,6 @@
     "tipologia_id": "22000126310"
   },
   {
-    "cantidad": 1,
-    "id": 63360,
-    "precio_acumulado": 205800.0,
-    "producto": {
-      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
-      "categoria_producto_id": 12661,
-      "codigo": "22000032568",
-      "descripcion": "VIGA REFUERZO DE 150CM LINK ELEMENTOS SOPORTE ELSO340000",
-      "especificaciones_id": null,
-      "estado": true,
-      "imagen": {
-        "id": 2690,
-        "nombre": "ELSO340000",
-        "ubicacion": "uploads/2022/12/7/21_6_24_618444.jpg",
-        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/12/7/21_6_24_618444.jpg"
-      },
-      "medida_primaria": "Unidad",
-      "observaciones": "La viga refuerzo del plano ELSO340000 es rematable en largo L: desde 100 hasta 240cm."
-    },
-    "tipologia_id": "22000126313"
-  },
-  {
     "cantidad": 4,
     "id": 63518,
     "precio_acumulado": 823200.0,
@@ -25592,6 +27286,28 @@
       "observaciones": "La viga refuerzo del plano ELSO340000 es rematable en largo L: desde 100 hasta 240cm."
     },
     "tipologia_id": "22000126422"
+  },
+  {
+    "cantidad": 1,
+    "id": 63360,
+    "precio_acumulado": 205800.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000032568",
+      "descripcion": "VIGA REFUERZO DE 150CM LINK ELEMENTOS SOPORTE ELSO340000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 2690,
+        "nombre": "ELSO340000",
+        "ubicacion": "uploads/2022/12/7/21_6_24_618444.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/12/7/21_6_24_618444.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": "La viga refuerzo del plano ELSO340000 es rematable en largo L: desde 100 hasta 240cm."
+    },
+    "tipologia_id": "22000126313"
   },
   {
     "cantidad": 3,
@@ -26080,7 +27796,7 @@
   {
     "cantidad": 8,
     "id": 62385,
-    "precio_acumulado": 432.0,
+    "precio_acumulado": 1646400.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12661,
@@ -27400,7 +29116,7 @@
   {
     "cantidad": 4,
     "id": 66671,
-    "precio_acumulado": 856000.0,
+    "precio_acumulado": 898800.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12661,
@@ -30624,7 +32340,7 @@
   {
     "cantidad": 2,
     "id": 66672,
-    "precio_acumulado": 1562000.0,
+    "precio_acumulado": 1640100.0,
     "producto": {
       "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
       "categoria_producto_id": 12661,
@@ -30857,6 +32573,57 @@
   },
   {
     "cantidad": 2,
+    "id": 64874,
+    "precio_acumulado": 111300.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12759,
+      "codigo": "22000108106",
+      "descripcion": "KIT PP TAPA DUCTO TERMINAL DOBLE LINK LKES010610",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
+    "cantidad": 2,
+    "id": 64902,
+    "precio_acumulado": 106000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12759,
+      "codigo": "22000108106",
+      "descripcion": "KIT PP TAPA DUCTO TERMINAL DOBLE LINK LKES010610",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131776"
+  },
+  {
+    "cantidad": 2,
+    "id": 64857,
+    "precio_acumulado": 111300.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12759,
+      "codigo": "22000108106",
+      "descripcion": "KIT PP TAPA DUCTO TERMINAL DOBLE LINK LKES010610",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 2,
     "id": 63602,
     "precio_acumulado": 2845500.0,
     "producto": {
@@ -30922,6 +32689,358 @@
       "observaciones": "Es un PP solo activo para Tipologías"
     },
     "tipologia_id": "22000126352"
+  },
+  {
+    "cantidad": 6,
+    "id": 63301,
+    "precio_acumulado": 214200.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126298"
+  },
+  {
+    "cantidad": 4,
+    "id": 67865,
+    "precio_acumulado": 142800.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000133344"
+  },
+  {
+    "cantidad": 4,
+    "id": 67839,
+    "precio_acumulado": 124000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000133342"
+  },
+  {
+    "cantidad": 6,
+    "id": 67847,
+    "precio_acumulado": 186000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000133343"
+  },
+  {
+    "cantidad": 2,
+    "id": 67905,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000133347"
+  },
+  {
+    "cantidad": 2,
+    "id": 67909,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000133348"
+  },
+  {
+    "cantidad": 2,
+    "id": 67927,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000133349"
+  },
+  {
+    "cantidad": 4,
+    "id": 67984,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000133353"
+  },
+  {
+    "cantidad": 4,
+    "id": 68000,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000133355"
+  },
+  {
+    "cantidad": 8,
+    "id": 67896,
+    "precio_acumulado": 248000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000133346"
+  },
+  {
+    "cantidad": 2,
+    "id": 67956,
+    "precio_acumulado": 62000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000133351"
+  },
+  {
+    "cantidad": 2,
+    "id": 68016,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000133357"
+  },
+  {
+    "cantidad": 4,
+    "id": 63468,
+    "precio_acumulado": 142800.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126346"
+  },
+  {
+    "cantidad": 2,
+    "id": 63159,
+    "precio_acumulado": 71400.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126186"
+  },
+  {
+    "cantidad": 2,
+    "id": 68015,
+    "precio_acumulado": 62000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000133356"
+  },
+  {
+    "cantidad": 2,
+    "id": 63143,
+    "precio_acumulado": 71400.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22000109449",
+      "descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 509,
+        "nombre": "22000109449",
+        "ubicacion": "uploads/2021/5/8/17_48_38_226997.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126185"
   },
   {
     "cantidad": 1,
@@ -31960,6 +34079,74 @@
       "observaciones": "Es un PP solo activo para Tipologías"
     },
     "tipologia_id": "22000126390"
+  },
+  {
+    "cantidad": 1,
+    "id": 63466,
+    "precio_acumulado": 535500.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22000113983",
+      "descripcion": "SUPERFICIE PP RECTANGULAR FORMICA 120X60X2.5CM ERGOMATIC SES010309",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000126346"
+  },
+  {
+    "cantidad": 2,
+    "id": 63465,
+    "precio_acumulado": 535500.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12662,
+      "codigo": "22000114303",
+      "descripcion": "FALDON PP CURVO METALICO PIINTADO 46X14X10CM MINEROS TKSES010248",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000126346"
+  },
+  {
+    "cantidad": 2,
+    "id": 63464,
+    "precio_acumulado": 357000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12662,
+      "codigo": "22000114304",
+      "descripcion": "RIOSTRA PP METALICA PINTADA 43X7X5CM MINEROS TKSES010252",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000126346"
+  },
+  {
+    "cantidad": 4,
+    "id": 63463,
+    "precio_acumulado": 1566600.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12662,
+      "codigo": "22000114305",
+      "descripcion": "COSTADO PP METALICO PINTADO 72X45X7CM MINEROS TKSES010255",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000126346"
   },
   {
     "cantidad": 2,
@@ -35437,6 +37624,57 @@
     "tipologia_id": "22000131903"
   },
   {
+    "cantidad": 6,
+    "id": 64855,
+    "precio_acumulado": 466200.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12886,
+      "codigo": "22000118060",
+      "descripcion": "KIT PP PRENSA PANTALLA PRODUBANCO LKES2407322",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 8,
+    "id": 64878,
+    "precio_acumulado": 621600.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12886,
+      "codigo": "22000118060",
+      "descripcion": "KIT PP PRENSA PANTALLA PRODUBANCO LKES2407322",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
+    "cantidad": 4,
+    "id": 64899,
+    "precio_acumulado": 296000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12886,
+      "codigo": "22000118060",
+      "descripcion": "KIT PP PRENSA PANTALLA PRODUBANCO LKES2407322",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131776"
+  },
+  {
     "cantidad": 1,
     "id": 63305,
     "precio_acumulado": 361200.0,
@@ -35474,6 +37712,108 @@
       "observaciones": "Es un PP solo activo para Tipologías"
     },
     "tipologia_id": "22000131902"
+  },
+  {
+    "cantidad": 6,
+    "id": 64856,
+    "precio_acumulado": 1297800.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12886,
+      "codigo": "22000118337",
+      "descripcion": "GROMMET PP METALICO PINTADO 50X12X2.5CM PRODUBANCO-ECUADOR LKES2407486",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 8,
+    "id": 64881,
+    "precio_acumulado": 1730400.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12886,
+      "codigo": "22000118337",
+      "descripcion": "GROMMET PP METALICO PINTADO 50X12X2.5CM PRODUBANCO-ECUADOR LKES2407486",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
+    "cantidad": 1,
+    "id": 64930,
+    "precio_acumulado": 216300.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12886,
+      "codigo": "22000118337",
+      "descripcion": "GROMMET PP METALICO PINTADO 50X12X2.5CM PRODUBANCO-ECUADOR LKES2407486",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131783"
+  },
+  {
+    "cantidad": 4,
+    "id": 64895,
+    "precio_acumulado": 824000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12886,
+      "codigo": "22000118337",
+      "descripcion": "GROMMET PP METALICO PINTADO 50X12X2.5CM PRODUBANCO-ECUADOR LKES2407486",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131776"
+  },
+  {
+    "cantidad": 1,
+    "id": 64917,
+    "precio_acumulado": 216300.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12886,
+      "codigo": "22000118337",
+      "descripcion": "GROMMET PP METALICO PINTADO 50X12X2.5CM PRODUBANCO-ECUADOR LKES2407486",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131779"
+  },
+  {
+    "cantidad": 1,
+    "id": 64919,
+    "precio_acumulado": 216300.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12886,
+      "codigo": "22000118337",
+      "descripcion": "GROMMET PP METALICO PINTADO 50X12X2.5CM PRODUBANCO-ECUADOR LKES2407486",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131781"
   },
   {
     "cantidad": 12,
@@ -35629,6 +37969,227 @@
     "tipologia_id": "22000133604"
   },
   {
+    "cantidad": 6,
+    "id": 64853,
+    "precio_acumulado": 3465000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22000119522",
+      "descripcion": "SUPERFICIE PP RECTANGULAR SUPERCOR 160X70X2.5CM ECUADOR-PRODUBANCO LKES2409572",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 8,
+    "id": 64868,
+    "precio_acumulado": 4620000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22000119522",
+      "descripcion": "SUPERFICIE PP RECTANGULAR SUPERCOR 160X70X2.5CM ECUADOR-PRODUBANCO LKES2409572",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
+    "cantidad": 4,
+    "id": 64903,
+    "precio_acumulado": 2200000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22000119522",
+      "descripcion": "SUPERFICIE PP RECTANGULAR SUPERCOR 160X70X2.5CM ECUADOR-PRODUBANCO LKES2409572",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131776"
+  },
+  {
+    "cantidad": 1,
+    "id": 64926,
+    "precio_acumulado": 577500.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22000119522",
+      "descripcion": "SUPERFICIE PP RECTANGULAR SUPERCOR 160X70X2.5CM ECUADOR-PRODUBANCO LKES2409572",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131783"
+  },
+  {
+    "cantidad": 2,
+    "id": 64865,
+    "precio_acumulado": 1209600.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000119539",
+      "descripcion": "COSTADO PP EN O TERMINAL METALICO 140X70X18CM ECUADOR-PRODUBANCO LKES2409573",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 2,
+    "id": 64890,
+    "precio_acumulado": 1152000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000119539",
+      "descripcion": "COSTADO PP EN O TERMINAL METALICO 140X70X18CM ECUADOR-PRODUBANCO LKES2409573",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131776"
+  },
+  {
+    "cantidad": 2,
+    "id": 64873,
+    "precio_acumulado": 1209600.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000119539",
+      "descripcion": "COSTADO PP EN O TERMINAL METALICO 140X70X18CM ECUADOR-PRODUBANCO LKES2409573",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
+    "cantidad": 2,
+    "id": 64864,
+    "precio_acumulado": 1291500.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000119540",
+      "descripcion": "COSTADO PP EN O INTERMEDIO METALICO 140X70X18CM ECUADOR-PRODUBANCO LKES2409577",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 1,
+    "id": 64891,
+    "precio_acumulado": 615000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000119540",
+      "descripcion": "COSTADO PP EN O INTERMEDIO METALICO 140X70X18CM ECUADOR-PRODUBANCO LKES2409577",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131776"
+  },
+  {
+    "cantidad": 3,
+    "id": 64875,
+    "precio_acumulado": 1937250.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000119540",
+      "descripcion": "COSTADO PP EN O INTERMEDIO METALICO 140X70X18CM ECUADOR-PRODUBANCO LKES2409577",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
+    "cantidad": 1,
+    "id": 64860,
+    "precio_acumulado": 811650.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000119541",
+      "descripcion": "DUCTO PP CABLEADO METALICO 160X22X13CM ECUADOR-PRODUBANCO LKES2409579",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 2,
+    "id": 64893,
+    "precio_acumulado": 1546000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000119541",
+      "descripcion": "DUCTO PP CABLEADO METALICO 160X22X13CM ECUADOR-PRODUBANCO LKES2409579",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131776"
+  },
+  {
+    "cantidad": 4,
+    "id": 64872,
+    "precio_acumulado": 3092000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000119541",
+      "descripcion": "DUCTO PP CABLEADO METALICO 160X22X13CM ECUADOR-PRODUBANCO LKES2409579",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
     "cantidad": 2,
     "id": 64859,
     "precio_acumulado": 1470000.0,
@@ -35661,6 +38222,57 @@
       "observaciones": "Es un PP solo activo para Tipologías"
     },
     "tipologia_id": "22000131779"
+  },
+  {
+    "cantidad": 3,
+    "id": 64852,
+    "precio_acumulado": 1890000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12653,
+      "codigo": "22000119665",
+      "descripcion": "CUERPO PP PANTALLA VIDRIO LAMINADO 4+4 ECUADOR-PRODUBANCO LKES2409585",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 4,
+    "id": 64869,
+    "precio_acumulado": 2520000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12653,
+      "codigo": "22000119665",
+      "descripcion": "CUERPO PP PANTALLA VIDRIO LAMINADO 4+4 ECUADOR-PRODUBANCO LKES2409585",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
+    "cantidad": 2,
+    "id": 64900,
+    "precio_acumulado": 1200000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12653,
+      "codigo": "22000119665",
+      "descripcion": "CUERPO PP PANTALLA VIDRIO LAMINADO 4+4 ECUADOR-PRODUBANCO LKES2409585",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131776"
   },
   {
     "cantidad": 6,
@@ -37236,6 +39848,142 @@
     "tipologia_id": "22000118256"
   },
   {
+    "cantidad": 2,
+    "id": 64863,
+    "precio_acumulado": 495600.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000123148",
+      "descripcion": "VIGA PP REFUERZO INTERMEDIA METALICA PINTURA BLANCO AC P7 BRILLANTE 154X5X5CM ECUADOR-PRODUBANCO LKES4102977",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 4,
+    "id": 64877,
+    "precio_acumulado": 944000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000123148",
+      "descripcion": "VIGA PP REFUERZO INTERMEDIA METALICA PINTURA BLANCO AC P7 BRILLANTE 154X5X5CM ECUADOR-PRODUBANCO LKES4102977",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
+    "cantidad": 4,
+    "id": 64892,
+    "precio_acumulado": 944000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000123149",
+      "descripcion": "VIGA PP REFUERZO TERMINAL METALICA PINTURA BLANCO AC P7 BRILLANTE 152X5X5CM ECUADOR-PRODUBANCO LKES4102975",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131776"
+  },
+  {
+    "cantidad": 4,
+    "id": 64879,
+    "precio_acumulado": 991200.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000123149",
+      "descripcion": "VIGA PP REFUERZO TERMINAL METALICA PINTURA BLANCO AC P7 BRILLANTE 152X5X5CM ECUADOR-PRODUBANCO LKES4102975",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
+    "cantidad": 4,
+    "id": 64862,
+    "precio_acumulado": 991200.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000123149",
+      "descripcion": "VIGA PP REFUERZO TERMINAL METALICA PINTURA BLANCO AC P7 BRILLANTE 152X5X5CM ECUADOR-PRODUBANCO LKES4102975",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 6,
+    "id": 64861,
+    "precio_acumulado": 1008000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000123150",
+      "descripcion": "SOPORTE PP SUPERFICIE PINTURA BLANCO AC P7 BRILLANTE 107CM PRODUBANCO LKES4102979",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 8,
+    "id": 64867,
+    "precio_acumulado": 1344000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000123150",
+      "descripcion": "SOPORTE PP SUPERFICIE PINTURA BLANCO AC P7 BRILLANTE 107CM PRODUBANCO LKES4102979",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
+    "cantidad": 4,
+    "id": 64897,
+    "precio_acumulado": 640000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000123150",
+      "descripcion": "SOPORTE PP SUPERFICIE PINTURA BLANCO AC P7 BRILLANTE 107CM PRODUBANCO LKES4102979",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000131776"
+  },
+  {
     "cantidad": 1,
     "id": 64924,
     "precio_acumulado": 338100.0,
@@ -37251,6 +39999,23 @@
       "observaciones": "Es un PP solo activo para Tipologías"
     },
     "tipologia_id": "22000131781"
+  },
+  {
+    "cantidad": 1,
+    "id": 63469,
+    "precio_acumulado": 310800.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12886,
+      "codigo": "22000123278",
+      "descripcion": "CAJA PP 3 TOMAS METALICA GRUPO SUPERIOR ECUADOR LKES4103657",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000126346"
   },
   {
     "cantidad": 1,
@@ -37853,6 +40618,57 @@
       "observaciones": ""
     },
     "tipologia_id": "22000134256"
+  },
+  {
+    "cantidad": 1,
+    "id": 62087,
+    "precio_acumulado": 778000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12717,
+      "codigo": "22000123744",
+      "descripcion": "SUPERFICIE TRABAJO RECTANGULAR ESQUINAS RECTAS 120X80X3CM FORMICA KUO KUSU170000",
+      "especificaciones_id": 73162,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000124170"
+  },
+  {
+    "cantidad": 1,
+    "id": 63474,
+    "precio_acumulado": 778000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12717,
+      "codigo": "22000123744",
+      "descripcion": "SUPERFICIE TRABAJO RECTANGULAR ESQUINAS RECTAS 120X80X3CM FORMICA KUO KUSU170000",
+      "especificaciones_id": 73162,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126347"
+  },
+  {
+    "cantidad": 1,
+    "id": 71200,
+    "precio_acumulado": 214.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12717,
+      "codigo": "22000123744",
+      "descripcion": "SUPERFICIE TRABAJO RECTANGULAR ESQUINAS RECTAS 120X80X3CM FORMICA KUO KUSU170000",
+      "especificaciones_id": 73162,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000134257"
   },
   {
     "cantidad": 1,
@@ -39606,6 +42422,28 @@
       "observaciones": ""
     },
     "tipologia_id": "22000131835"
+  },
+  {
+    "cantidad": 1,
+    "id": 63473,
+    "precio_acumulado": 221550.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12661,
+      "codigo": "22000126724",
+      "descripcion": "GROMMET ANODIZADO 3 TOMAS 41X10X3.3CM LINK LKAC670000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 2689,
+        "nombre": "LKAC670000",
+        "ubicacion": "uploads/2023/1/14/15_6_7_942671.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_6_7_942671.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126346"
   },
   {
     "cantidad": 2,
@@ -55789,6 +58627,40 @@
       "observaciones": ""
     },
     "tipologia_id": "22000126391"
+  },
+  {
+    "cantidad": 1,
+    "id": 63471,
+    "precio_acumulado": 383250.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12662,
+      "codigo": "22000131297",
+      "descripcion": "VIGA PP METALICA 73CM PINTADA RIMON LAW TKSES0101278",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000126346"
+  },
+  {
+    "cantidad": 2,
+    "id": 63472,
+    "precio_acumulado": 504000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12662,
+      "codigo": "22000131298",
+      "descripcion": "FALDON PP RECTO 150CM RIMON LAW TKSES0101281",
+      "especificaciones_id": 108680,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": "Es un PP solo activo para Tipologías"
+    },
+    "tipologia_id": "22000126346"
   },
   {
     "cantidad": 1,
@@ -118309,28 +121181,6 @@
   },
   {
     "cantidad": 1,
-    "id": 63361,
-    "precio_acumulado": 6300.0,
-    "producto": {
-      "categoria_costo": "MATERIA PRIMA.PLANTA MEPAL.MANUFACTURA.OPEN",
-      "categoria_producto_id": 12639,
-      "codigo": "22000648",
-      "descripcion": "TAPA PASACABLE SUPERFICIES VARIAS COLOR GRIS CLARO MPR050004",
-      "especificaciones_id": null,
-      "estado": true,
-      "imagen": {
-        "id": 2185,
-        "nombre": "22000648",
-        "ubicacion": "uploads/2022/2/28/20_36_58_693345.jpg",
-        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/2/28/20_36_58_693345.jpg"
-      },
-      "medida_primaria": "Unidad",
-      "observaciones": "Materia Prima Comprada"
-    },
-    "tipologia_id": "22000126313"
-  },
-  {
-    "cantidad": 1,
     "id": 63392,
     "precio_acumulado": 6000.0,
     "producto": {
@@ -118416,6 +121266,28 @@
       "observaciones": "Materia Prima Comprada"
     },
     "tipologia_id": "22000126308"
+  },
+  {
+    "cantidad": 1,
+    "id": 63361,
+    "precio_acumulado": 6300.0,
+    "producto": {
+      "categoria_costo": "MATERIA PRIMA.PLANTA MEPAL.MANUFACTURA.OPEN",
+      "categoria_producto_id": 12639,
+      "codigo": "22000648",
+      "descripcion": "TAPA PASACABLE SUPERFICIES VARIAS COLOR GRIS CLARO MPR050004",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 2185,
+        "nombre": "22000648",
+        "ubicacion": "uploads/2022/2/28/20_36_58_693345.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/2/28/20_36_58_693345.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": "Materia Prima Comprada"
+    },
+    "tipologia_id": "22000126313"
   },
   {
     "cantidad": 4,
@@ -124072,6 +126944,358 @@
     "tipologia_id": "22000126185"
   },
   {
+    "cantidad": 2,
+    "id": 62571,
+    "precio_acumulado": null,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126074"
+  },
+  {
+    "cantidad": 2,
+    "id": 62618,
+    "precio_acumulado": 98700.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126080"
+  },
+  {
+    "cantidad": 2,
+    "id": 63348,
+    "precio_acumulado": 98700.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126311"
+  },
+  {
+    "cantidad": 2,
+    "id": 63334,
+    "precio_acumulado": 98700.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126310"
+  },
+  {
+    "cantidad": 2,
+    "id": 63313,
+    "precio_acumulado": 98700.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126307"
+  },
+  {
+    "cantidad": 2,
+    "id": 63324,
+    "precio_acumulado": 98700.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126308"
+  },
+  {
+    "cantidad": 2,
+    "id": 63362,
+    "precio_acumulado": 98700.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126313"
+  },
+  {
+    "cantidad": 4,
+    "id": 64854,
+    "precio_acumulado": 197400.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131773"
+  },
+  {
+    "cantidad": 6,
+    "id": 64871,
+    "precio_acumulado": 296100.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131774"
+  },
+  {
+    "cantidad": 2,
+    "id": 64896,
+    "precio_acumulado": 94000.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131776"
+  },
+  {
+    "cantidad": 2,
+    "id": 63351,
+    "precio_acumulado": 98700.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126312"
+  },
+  {
+    "cantidad": 2,
+    "id": 62536,
+    "precio_acumulado": 98700.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126071"
+  },
+  {
+    "cantidad": 2,
+    "id": 63248,
+    "precio_acumulado": 98700.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126208"
+  },
+  {
+    "cantidad": 2,
+    "id": 63330,
+    "precio_acumulado": 26.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126309"
+  },
+  {
+    "cantidad": 2,
+    "id": 62532,
+    "precio_acumulado": 98700.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126070"
+  },
+  {
+    "cantidad": 2,
+    "id": 63457,
+    "precio_acumulado": 98700.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+      "categoria_producto_id": 12639,
+      "codigo": "22189410488",
+      "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": {
+        "id": 511,
+        "nombre": "22189410488",
+        "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+        "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+      },
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126345"
+  },
+  {
     "cantidad": 1,
     "id": 63459,
     "precio_acumulado": 107100.0,
@@ -124126,6 +127350,142 @@
       "observaciones": ""
     },
     "tipologia_id": "22000126345"
+  },
+  {
+    "cantidad": 1,
+    "id": 65656,
+    "precio_acumulado": 1023750.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22191700319",
+      "descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 150X75X3CM SPR010100",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000131902"
+  },
+  {
+    "cantidad": 1,
+    "id": 63461,
+    "precio_acumulado": 1023750.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22191700319",
+      "descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 150X75X3CM SPR010100",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126346"
+  },
+  {
+    "cantidad": 1,
+    "id": 63245,
+    "precio_acumulado": 433650.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22191700325",
+      "descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 90X60X3CM SPR010010",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126208"
+  },
+  {
+    "cantidad": 1,
+    "id": 63340,
+    "precio_acumulado": 433650.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22191700325",
+      "descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 90X60X3CM SPR010010",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126310"
+  },
+  {
+    "cantidad": 1,
+    "id": 63316,
+    "precio_acumulado": 433650.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22191700325",
+      "descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 90X60X3CM SPR010010",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126307"
+  },
+  {
+    "cantidad": 3,
+    "id": 63591,
+    "precio_acumulado": 1300950.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22191700325",
+      "descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 90X60X3CM SPR010010",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126389"
+  },
+  {
+    "cantidad": 1,
+    "id": 63349,
+    "precio_acumulado": 433650.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22191700325",
+      "descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 90X60X3CM SPR010010",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126311"
+  },
+  {
+    "cantidad": 1,
+    "id": 63382,
+    "precio_acumulado": 433650.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22191700325",
+      "descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 90X60X3CM SPR010010",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126319"
   },
   {
     "cantidad": 1,
@@ -124605,23 +127965,6 @@
   },
   {
     "cantidad": 1,
-    "id": 63364,
-    "precio_acumulado": 502950.0,
-    "producto": {
-      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
-      "categoria_producto_id": 12638,
-      "codigo": "22191700777",
-      "descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 105X60X3CM SPR010010",
-      "especificaciones_id": null,
-      "estado": true,
-      "imagen": null,
-      "medida_primaria": "Unidad",
-      "observaciones": ""
-    },
-    "tipologia_id": "22000126313"
-  },
-  {
-    "cantidad": 1,
     "id": 63325,
     "precio_acumulado": 502950.0,
     "producto": {
@@ -124636,6 +127979,23 @@
       "observaciones": ""
     },
     "tipologia_id": "22000126308"
+  },
+  {
+    "cantidad": 1,
+    "id": 63364,
+    "precio_acumulado": 502950.0,
+    "producto": {
+      "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+      "categoria_producto_id": 12638,
+      "codigo": "22191700777",
+      "descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 105X60X3CM SPR010010",
+      "especificaciones_id": null,
+      "estado": true,
+      "imagen": null,
+      "medida_primaria": "Unidad",
+      "observaciones": ""
+    },
+    "tipologia_id": "22000126313"
   },
   {
     "cantidad": 2,
