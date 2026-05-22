@@ -179,11 +179,10 @@ def cargar_codigos_a_eliminar(txt_path: Path) -> set:
 
 def filter_tipologias(tipologias, codigos_a_eliminar: set, endpoint_label: str):
     """
-    Filtra las tipologías:
-    - Elimina hijos cuyo producto.codigo esté en codigos_a_eliminar.
-    - Si después de eliminar quedan hijos, conserva el padre con hijos filtrados.
-    - Si no quedan hijos, elimina también el padre.
-    - Genera reporte de padres eliminados completamente.
+    Filtra las tipologías completas:
+    - Si el código padre está en codigos_a_eliminar, elimina toda la tipología.
+    - Si cualquier hijo tiene producto.codigo en codigos_a_eliminar, elimina toda la tipología.
+    - Si no encuentra códigos prohibidos, conserva la tipología completa.
     """
     tipologias_filtradas = []
     tipologias_eliminadas = []
@@ -192,37 +191,43 @@ def filter_tipologias(tipologias, codigos_a_eliminar: set, endpoint_label: str):
         if not isinstance(t, dict):
             continue
 
+        codigo_padre = normalizar_codigo(t.get("codigo"))
         hijos = t.get("hijos") or []
-        eliminated_codes = set()
 
-        filtered_hijos = []
+        codigos_hijos_encontrados = set()
 
+        # 1. Revisar si el código padre está en los códigos a eliminar
+        padre_debe_eliminarse = codigo_padre in codigos_a_eliminar
+
+        # 2. Revisar códigos de hijos
         for h in hijos:
-            code = ""
+            if not isinstance(h, dict):
+                continue
 
-            if isinstance(h, dict):
-                prod = h.get("producto")
+            producto = h.get("producto") or {}
 
-                if isinstance(prod, dict):
-                    code = normalizar_codigo(prod.get("codigo"))
+            if not isinstance(producto, dict):
+                continue
 
-            if code and code in codigos_a_eliminar:
-                eliminated_codes.add(code)
-            else:
-                filtered_hijos.append(h)
+            codigo_hijo = normalizar_codigo(producto.get("codigo"))
 
-        if filtered_hijos:
-            t_filtered = dict(t)
-            t_filtered["hijos"] = filtered_hijos
-            tipologias_filtradas.append(t_filtered)
-        else:
+            if codigo_hijo and codigo_hijo in codigos_a_eliminar:
+                codigos_hijos_encontrados.add(codigo_hijo)
+
+        # 3. Si el padre o algún hijo coincide, eliminar toda la tipología
+        if padre_debe_eliminarse or codigos_hijos_encontrados:
             tipologias_eliminadas.append({
                 "endpoint": endpoint_label,
-                "codigo_padre": t.get("codigo"),
+                "codigo_padre": codigo_padre,
                 "descripcion_padre": str(t.get("descripcion", ""))[:200],
-                "cantidad_codigos_eliminados": len(eliminated_codes),
-                "ejemplo_codigos_eliminados": ", ".join(sorted(list(eliminated_codes))[:10])
+                "motivo": "Código padre eliminado" if padre_debe_eliminarse else "Contiene hijo eliminado",
+                "codigos_hijos_encontrados": ", ".join(sorted(codigos_hijos_encontrados)),
+                "cantidad_hijos_originales": len(hijos)
             })
+            continue
+
+        # 4. Si no hubo coincidencias, conservar la tipología completa
+        tipologias_filtradas.append(t)
 
     return tipologias_filtradas, tipologias_eliminadas
 
@@ -266,13 +271,7 @@ def guardar_reporte_csv(data, path: Path):
         print("ℹ️ No hubo tipologías padre eliminadas completamente. No se generó CSV.")
         return
 
-    fieldnames = [
-        "endpoint",
-        "codigo_padre",
-        "descripcion_padre",
-        "cantidad_codigos_eliminados",
-        "ejemplo_codigos_eliminados"
-    ]
+    fieldnames = ["endpoint","codigo_padre","descripcion_padre","motivo","codigos_hijos_encontrados","cantidad_hijos_originales"]
 
     with open(path, "w", newline="", encoding="utf-8-sig") as f_csv:
         writer = csv.DictWriter(f_csv, fieldnames=fieldnames)
