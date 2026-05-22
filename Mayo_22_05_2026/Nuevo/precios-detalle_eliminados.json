@@ -1,0 +1,3071 @@
+[
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-19",
+      "id": 832,
+      "nombre": "22000009982",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 190050.0,
+    "producto_codigo": "22000009982",
+    "producto_descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000"
+  },
+  {
+    "categoria": {
+      "id": 12623,
+      "padre_id": 12592
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ALMACENAMIENTO.BIBLIOTECA",
+    "imagen": {
+      "fecha_registro": "2023-02-20",
+      "id": 3106,
+      "nombre": "ALM1320000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/3/22/22_28_41_722967.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 3381000.0,
+    "producto_codigo": "22000020062",
+    "producto_descripcion": "BIBLIOTECA METALICA 3 ENTREPAÑOS CON PUERTA FORMICA CON MANIJA 132X90X50CM ALMACENAMIENTO ALM1320000"
+  },
+  {
+    "categoria": {
+      "id": 12624,
+      "padre_id": 12592
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ALMACENAMIENTO.CAJONERA",
+    "imagen": {
+      "fecha_registro": "2021-07-22",
+      "id": 1788,
+      "nombre": "ALM1540000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/5/14_22_3_146977.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 1446900.0,
+    "producto_codigo": "22000020537",
+    "producto_descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO CON MANIJA 57X40X50CM ALMACENAMIENTO ALM1540000"
+  },
+  {
+    "categoria": {
+      "id": 12624,
+      "padre_id": 12592
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ALMACENAMIENTO.CAJONERA",
+    "imagen": {
+      "fecha_registro": "2021-08-06",
+      "id": 1888,
+      "nombre": "ALM1080000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/6/12/21_8_35_287839.png"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 1266300.0,
+    "producto_codigo": "22000020538",
+    "producto_descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 57X40X50CM ALMACENAMIENTO ALM1080000"
+  },
+  {
+    "categoria": {
+      "id": 12654,
+      "padre_id": 12592
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ALMACENAMIENTO.PEDESTAL",
+    "imagen": {
+      "fecha_registro": "2021-08-06",
+      "id": 1891,
+      "nombre": "ALM1000000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/8/6/21_8_5_459576.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 1367100.0,
+    "producto_codigo": "22000020559",
+    "producto_descripcion": "PEDESTAL FIJO RIEL EXTENSION TOTAL 2 GAVETAS 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 71X40X50CM ALMACENAMIENTO ALM1000000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 310,
+      "nombre": "22000104949",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_28_50_424187.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 138600.0,
+    "producto_codigo": "22000104949",
+    "producto_descripcion": "DUCTO BAJANTE A PISO INDIVIDUAL TEK TKAC120000"
+  },
+  {
+    "categoria": {
+      "id": 12617,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.ALMACENAMIENTO",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 314,
+      "nombre": "22000105114",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/5/16_48_39_339416.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 3309600.0,
+    "producto_codigo": "22000105114",
+    "producto_descripcion": "CREDENZA GERENCIA DERECHA METALICA 2S+1A FRENTES FORMICA 64X120X50CM TEK TKAL010000"
+  },
+  {
+    "categoria": {
+      "id": 12617,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.ALMACENAMIENTO",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 314,
+      "nombre": "22000105114",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/5/16_48_39_339416.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 3605700.0,
+    "producto_codigo": "22000105116",
+    "producto_descripcion": "CREDENZA GERENCIA DERECHA METALICA 2S+1A FRENTES FORMICA 64X150X50CM TEK TKAL010000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 322,
+      "nombre": "22000105122",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_31_34_107352.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 329700.0,
+    "producto_codigo": "22000105122",
+    "producto_descripcion": "VIGA CONECTORA  METALICA 165  CM TEK TKSO110000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 322,
+      "nombre": "22000105122",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_31_34_107352.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 330750.0,
+    "producto_codigo": "22000105123",
+    "producto_descripcion": "VIGA CONECTORA  METALICA 180CM TEK TKSO110000"
+  },
+  {
+    "categoria": {
+      "id": 12760,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 824250.0,
+    "producto_codigo": "22000107323",
+    "producto_descripcion": "SUPERFICIE PRINCIPAL GERENCIAL FORMICA 60X165X3CM TEK TKSU100000"
+  },
+  {
+    "categoria": {
+      "id": 12760,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 942900.0,
+    "producto_codigo": "22000107324",
+    "producto_descripcion": "SUPERFICIE PRINCIPAL GERENCIAL FORMICA 60X180X3CM TEK TKSU100000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 337,
+      "nombre": "22000107325",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_36_55_129374.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 27300.0,
+    "producto_codigo": "22000107325",
+    "producto_descripcion": "PUNTERA TERMINAL PINTADA PARA SUPERFICIE 30MM PUESTO GERENCIAL TEK TKAC280000"
+  },
+  {
+    "categoria": {
+      "id": 12759,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.ELEMENTO DE REPOSICION",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 55650.0,
+    "producto_codigo": "22000108106",
+    "producto_descripcion": "KIT PP TAPA DUCTO TERMINAL DOBLE LINK LKES010610"
+  },
+  {
+    "categoria": {
+      "id": 12639,
+      "padre_id": 12593
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ACCESORIO.GENERAL",
+    "imagen": {
+      "fecha_registro": "2021-05-08",
+      "id": 509,
+      "nombre": "22000109449",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 35700.0,
+    "producto_codigo": "22000109449",
+    "producto_descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 535500.0,
+    "producto_codigo": "22000113983",
+    "producto_descripcion": "SUPERFICIE PP RECTANGULAR FORMICA 120X60X2.5CM ERGOMATIC SES010309"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 267750.0,
+    "producto_codigo": "22000114303",
+    "producto_descripcion": "FALDON PP CURVO METALICO PIINTADO 46X14X10CM MINEROS TKSES010248"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 178500.0,
+    "producto_codigo": "22000114304",
+    "producto_descripcion": "RIOSTRA PP METALICA PINTADA 43X7X5CM MINEROS TKSES010252"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 391650.0,
+    "producto_codigo": "22000114305",
+    "producto_descripcion": "COSTADO PP METALICO PINTADO 72X45X7CM MINEROS TKSES010255"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2023-01-14",
+      "id": 2850,
+      "nombre": "LKAC250000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_18_25_18443.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 296100.0,
+    "producto_codigo": "22000116523",
+    "producto_descripcion": "GROMMET PINTADO 4 TOMAS ACCESORIO LINK LKAC250000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 364,
+      "nombre": "22000117196",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_44_8_765280.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 257250.0,
+    "producto_codigo": "22000117196",
+    "producto_descripcion": "DUCTO BAJANTE DOBLE TEK TKAC380000"
+  },
+  {
+    "categoria": {
+      "id": 12886,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.ACCESORIO",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 77700.0,
+    "producto_codigo": "22000118060",
+    "producto_descripcion": "KIT PP PRENSA PANTALLA PRODUBANCO LKES2407322"
+  },
+  {
+    "categoria": {
+      "id": 12886,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.ACCESORIO",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 216300.0,
+    "producto_codigo": "22000118337",
+    "producto_descripcion": "GROMMET PP METALICO PINTADO 50X12X2.5CM PRODUBANCO-ECUADOR LKES2407486"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": {
+      "fecha_registro": "2022-05-27",
+      "id": 2336,
+      "nombre": "22000118427",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/5/27/15_55_32_484904.png"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 430500.0,
+    "producto_codigo": "22000118427",
+    "producto_descripcion": "SUPERFICIE DERECHA FORMICA CON CAJA PARA GROMMET DE 60X90X3CM KUSU440000"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 577500.0,
+    "producto_codigo": "22000119522",
+    "producto_descripcion": "SUPERFICIE PP RECTANGULAR SUPERCOR 160X70X2.5CM ECUADOR-PRODUBANCO LKES2409572"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 604800.0,
+    "producto_codigo": "22000119539",
+    "producto_descripcion": "COSTADO PP EN O TERMINAL METALICO 140X70X18CM ECUADOR-PRODUBANCO LKES2409573"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 645750.0,
+    "producto_codigo": "22000119540",
+    "producto_descripcion": "COSTADO PP EN O INTERMEDIO METALICO 140X70X18CM ECUADOR-PRODUBANCO LKES2409577"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 811650.0,
+    "producto_codigo": "22000119541",
+    "producto_descripcion": "DUCTO PP CABLEADO METALICO 160X22X13CM ECUADOR-PRODUBANCO LKES2409579"
+  },
+  {
+    "categoria": {
+      "id": 12653,
+      "padre_id": 12593
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ACCESORIO.PANTALLA",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 630000.0,
+    "producto_codigo": "22000119665",
+    "producto_descripcion": "CUERPO PP PANTALLA VIDRIO LAMINADO 4+4 ECUADOR-PRODUBANCO LKES2409585"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 247800.0,
+    "producto_codigo": "22000123148",
+    "producto_descripcion": "VIGA PP REFUERZO INTERMEDIA METALICA PINTURA BLANCO AC P7 BRILLANTE 154X5X5CM ECUADOR-PRODUBANCO LKES4102977"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 247800.0,
+    "producto_codigo": "22000123149",
+    "producto_descripcion": "VIGA PP REFUERZO TERMINAL METALICA PINTURA BLANCO AC P7 BRILLANTE 152X5X5CM ECUADOR-PRODUBANCO LKES4102975"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 168000.0,
+    "producto_codigo": "22000123150",
+    "producto_descripcion": "SOPORTE PP SUPERFICIE PINTURA BLANCO AC P7 BRILLANTE 107CM PRODUBANCO LKES4102979"
+  },
+  {
+    "categoria": {
+      "id": 12886,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.ACCESORIO",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 310800.0,
+    "producto_codigo": "22000123278",
+    "producto_descripcion": "CAJA PP 3 TOMAS METALICA GRUPO SUPERIOR ECUADOR LKES4103657"
+  },
+  {
+    "categoria": {
+      "id": 12717,
+      "padre_id": 12704
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.KUO-GO.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 758100.0,
+    "producto_codigo": "22000123744",
+    "producto_descripcion": "SUPERFICIE TRABAJO RECTANGULAR ESQUINAS RECTAS 120X80X3CM FORMICA KUO KUSU170000"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-12-07",
+      "id": 2689,
+      "nombre": "LKAC670000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_6_7_942671.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 221550.0,
+    "producto_codigo": "22000126724",
+    "producto_descripcion": "GROMMET ANODIZADO 3 TOMAS 41X10X3.3CM LINK LKAC670000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2411,
+      "nombre": "22000127237",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_130185.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 357000.0,
+    "producto_codigo": "22000127237",
+    "producto_descripcion": "COSTADO SENCILLO TERMINAL PINTADO DE 71X60CM TEK (V2) TKSO340000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2411,
+      "nombre": "22000127237",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_130185.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 363300.0,
+    "producto_codigo": "22000127238",
+    "producto_descripcion": "COSTADO SENCILLO TERMINAL PINTADO DE 75CM TEK (V2) TKSO340000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2417,
+      "nombre": "22000127871",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_154598.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 113400.0,
+    "producto_codigo": "22000127874",
+    "producto_descripcion": "VIGA REFUERZO DE 165CM METALICA PINTADA TEK (V2) TKSO390000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 228900.0,
+    "producto_codigo": "22000127878",
+    "producto_descripcion": "KIT GROMMET TERMINAL 165CM ANODIZADO TEK (V2) TKAC610000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 228900.0,
+    "producto_codigo": "22000127886",
+    "producto_descripcion": "KIT GROMMET INTERMEDIO 165CM ANODIZADO TEK (V2) TKAC620000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 170100.0,
+    "producto_codigo": "22000127891",
+    "producto_descripcion": "KIT GROMMET INDIVIDUAL 120CM ANODIZADO TEK (V2) TKAC630000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 193200.0,
+    "producto_codigo": "22000127892",
+    "producto_descripcion": "KIT GROMMET INDIVIDUAL 135CM ANODIZADO TEK (V2) TKAC630000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 193200.0,
+    "producto_codigo": "22000127893",
+    "producto_descripcion": "KIT GROMMET INDIVIDUAL 150CM ANODIZADO TEK (V2) TKAC630000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 228900.0,
+    "producto_codigo": "22000127894",
+    "producto_descripcion": "KIT GROMMET INDIVIDUAL 165CM ANODIZADO TEK (V2) TKAC630000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 1486800.0,
+    "producto_codigo": "22000129415",
+    "producto_descripcion": "COLUMNA DOBLE TERMINAL 180CM METALICA LABORATORIO HLSO001000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 1498350.0,
+    "producto_codigo": "22000129416",
+    "producto_descripcion": "COLUMNA DOBLE INTERMEDIA 180CM METALICA LABORATORIO HLSO002000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 530250.0,
+    "producto_codigo": "22000129430",
+    "producto_descripcion": "DUCTO CABLEADO 120CM DOBLE INDIVIDUAL METALICO LABORATORIO HLSO009000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 567000.0,
+    "producto_codigo": "22000129431",
+    "producto_descripcion": "DUCTO CABLEADO 150CM DOBLE INDIVIDUAL METALICO LABORATORIO HLSO009000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 533400.0,
+    "producto_codigo": "22000129432",
+    "producto_descripcion": "DUCTO CABLEADO 120CM DOBLE TERMINAL METALICO LABORATORIO HLSO010000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 570150.0,
+    "producto_codigo": "22000129433",
+    "producto_descripcion": "DUCTO CABLEADO 150CM DOBLE TERMINAL METALICO LABORATORIO HLSO010000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 536550.0,
+    "producto_codigo": "22000129434",
+    "producto_descripcion": "DUCTO CABLEADO 120CM DOBLE INTERMEDIO METALICO LABORATORIO HLSO011000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 575400.0,
+    "producto_codigo": "22000129435",
+    "producto_descripcion": "DUCTO CABLEADO 150CM DOBLE INTERMEDIO METALICO LABORATORIO HLSO011000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 275100.0,
+    "producto_codigo": "22000129436",
+    "producto_descripcion": "VIGA DOBLE INDIVIDUAL 120CM PINTADA LABORATORIO HLSO020000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 321300.0,
+    "producto_codigo": "22000129437",
+    "producto_descripcion": "VIGA DOBLE INDIVIDUAL 150CM PINTADA LABORATORIO HLSO020000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 275100.0,
+    "producto_codigo": "22000129438",
+    "producto_descripcion": "VIGA DOBLE TERMINAL 120CM PINTADA LABORATORIO HLSO023000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 321300.0,
+    "producto_codigo": "22000129439",
+    "producto_descripcion": "VIGA DOBLE TERMINAL 150CM PINTADA LABORATORIO HLSO023000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 275100.0,
+    "producto_codigo": "22000129440",
+    "producto_descripcion": "VIGA DOBLE INTERMEDIA 120CM PINTADA LABORATORIO HLSO024000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 321300.0,
+    "producto_codigo": "22000129441",
+    "producto_descripcion": "VIGA DOBLE INTERMEDIA 150CM PINTADA LABORATORIO HLSO024000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 196350.0,
+    "producto_codigo": "22000129454",
+    "producto_descripcion": "VIGA INDIVIDUAL SUPERFICIE 120CM METALICA LABORATORIO HLAC007000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 210000.0,
+    "producto_codigo": "22000129455",
+    "producto_descripcion": "VIGA INDIVIDUAL SUPERFICIE 150CM METALICA LABORATORIO HLAC007000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 196350.0,
+    "producto_codigo": "22000129456",
+    "producto_descripcion": "VIGA TERMINAL SUPERFICIE 120CM METALICA LABORATORIO HLAC008000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 210000.0,
+    "producto_codigo": "22000129457",
+    "producto_descripcion": "VIGA TERMINAL SUPERFICIE 150CM METALICA LABORATORIO HLAC008000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 196350.0,
+    "producto_codigo": "22000129458",
+    "producto_descripcion": "VIGA INTERMEDIA SUPERFICIE 120CM METALICA LABORATORIO HLAC009000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 210000.0,
+    "producto_codigo": "22000129459",
+    "producto_descripcion": "VIGA INTERMEDIA SUPERFICIE 150CM METALICO LABORATORIO HLAC009000"
+  },
+  {
+    "categoria": {
+      "id": 12883,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 1059450.0,
+    "producto_codigo": "22000129891",
+    "producto_descripcion": "SUPERFICIE RECTA FORMICA CHEMLAM WHITE 120X75CM LABORATORIO HLSU001000"
+  },
+  {
+    "categoria": {
+      "id": 12883,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 1727250.0,
+    "producto_codigo": "22000129893",
+    "producto_descripcion": "SUPERFICIE RECTA FORMICA CHEMLAM WHITE 150X75CM LABORATORIO HLSU001000"
+  },
+  {
+    "categoria": {
+      "id": 12880,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.ALMACENAMIENTO",
+    "imagen": {
+      "fecha_registro": "2023-08-22",
+      "id": 3486,
+      "nombre": "HLAL003000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2023/8/22/21_45_28_471752.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 3280200.0,
+    "producto_codigo": "22000130309",
+    "producto_descripcion": "MUEBLE NAVES METALICAS CON PERFORACION POCETA 120X60X90CM LABORATORIO HLAL006000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 535500.0,
+    "producto_codigo": "22000130343",
+    "producto_descripcion": "DUCTO PARA FLUIDOS 120CM DOBLE TERMINAL METALICO LABORATORIO HLSO015000"
+  },
+  {
+    "categoria": {
+      "id": 12883,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 1271550.0,
+    "producto_codigo": "22000130775",
+    "producto_descripcion": "SUPERFICIE RECTA FORMICA CHEMLAM WHITE 120X100CM LABORATORIO HLSU001000"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 383250.0,
+    "producto_codigo": "22000131297",
+    "producto_descripcion": "VIGA PP METALICA 73CM PINTADA RIMON LAW TKSES0101278"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 252000.0,
+    "producto_codigo": "22000131298",
+    "producto_descripcion": "FALDON PP RECTO 150CM RIMON LAW TKSES0101281"
+  },
+  {
+    "categoria": {
+      "id": 12639,
+      "padre_id": 12593
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ACCESORIO.GENERAL",
+    "imagen": {
+      "fecha_registro": "2021-05-08",
+      "id": 511,
+      "nombre": "22189410488",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+    },
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 49350.0,
+    "producto_codigo": "22189410488",
+    "producto_descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 1023750.0,
+    "producto_codigo": "22191700319",
+    "producto_descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 150X75X3CM SPR010100"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": null,
+    "lista": "MEPAL_CO_Nacionales",
+    "precio": 433650.0,
+    "producto_codigo": "22191700325",
+    "producto_descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 90X60X3CM SPR010010"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-19",
+      "id": 832,
+      "nombre": "22000009982",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 25.0,
+    "producto_codigo": "22000009982",
+    "producto_descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000"
+  },
+  {
+    "categoria": {
+      "id": 12623,
+      "padre_id": 12592
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ALMACENAMIENTO.BIBLIOTECA",
+    "imagen": {
+      "fecha_registro": "2023-02-20",
+      "id": 3106,
+      "nombre": "ALM1320000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/3/22/22_28_41_722967.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 447.0,
+    "producto_codigo": "22000020062",
+    "producto_descripcion": "BIBLIOTECA METALICA 3 ENTREPAÑOS CON PUERTA FORMICA CON MANIJA 132X90X50CM ALMACENAMIENTO ALM1320000"
+  },
+  {
+    "categoria": {
+      "id": 12624,
+      "padre_id": 12592
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ALMACENAMIENTO.CAJONERA",
+    "imagen": {
+      "fecha_registro": "2021-07-22",
+      "id": 1788,
+      "nombre": "ALM1540000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/5/14_22_3_146977.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 190.0,
+    "producto_codigo": "22000020537",
+    "producto_descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO CON MANIJA 57X40X50CM ALMACENAMIENTO ALM1540000"
+  },
+  {
+    "categoria": {
+      "id": 12624,
+      "padre_id": 12592
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ALMACENAMIENTO.CAJONERA",
+    "imagen": {
+      "fecha_registro": "2021-08-06",
+      "id": 1888,
+      "nombre": "ALM1080000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/6/12/21_8_35_287839.png"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 176.0,
+    "producto_codigo": "22000020538",
+    "producto_descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 57X40X50CM ALMACENAMIENTO ALM1080000"
+  },
+  {
+    "categoria": {
+      "id": 12654,
+      "padre_id": 12592
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ALMACENAMIENTO.PEDESTAL",
+    "imagen": {
+      "fecha_registro": "2021-08-06",
+      "id": 1891,
+      "nombre": "ALM1000000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/8/6/21_8_5_459576.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 175.0,
+    "producto_codigo": "22000020559",
+    "producto_descripcion": "PEDESTAL FIJO RIEL EXTENSION TOTAL 2 GAVETAS 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 71X40X50CM ALMACENAMIENTO ALM1000000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 310,
+      "nombre": "22000104949",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_28_50_424187.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 18.0,
+    "producto_codigo": "22000104949",
+    "producto_descripcion": "DUCTO BAJANTE A PISO INDIVIDUAL TEK TKAC120000"
+  },
+  {
+    "categoria": {
+      "id": 12617,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.ALMACENAMIENTO",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 314,
+      "nombre": "22000105114",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/5/16_48_39_339416.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 438.0,
+    "producto_codigo": "22000105114",
+    "producto_descripcion": "CREDENZA GERENCIA DERECHA METALICA 2S+1A FRENTES FORMICA 64X120X50CM TEK TKAL010000"
+  },
+  {
+    "categoria": {
+      "id": 12617,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.ALMACENAMIENTO",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 314,
+      "nombre": "22000105114",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/5/16_48_39_339416.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 477.0,
+    "producto_codigo": "22000105116",
+    "producto_descripcion": "CREDENZA GERENCIA DERECHA METALICA 2S+1A FRENTES FORMICA 64X150X50CM TEK TKAL010000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 322,
+      "nombre": "22000105122",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_31_34_107352.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 43.0,
+    "producto_codigo": "22000105122",
+    "producto_descripcion": "VIGA CONECTORA  METALICA 165  CM TEK TKSO110000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 322,
+      "nombre": "22000105122",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_31_34_107352.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 43.0,
+    "producto_codigo": "22000105123",
+    "producto_descripcion": "VIGA CONECTORA  METALICA 180CM TEK TKSO110000"
+  },
+  {
+    "categoria": {
+      "id": 12760,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 109.0,
+    "producto_codigo": "22000107323",
+    "producto_descripcion": "SUPERFICIE PRINCIPAL GERENCIAL FORMICA 60X165X3CM TEK TKSU100000"
+  },
+  {
+    "categoria": {
+      "id": 12760,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 125.0,
+    "producto_codigo": "22000107324",
+    "producto_descripcion": "SUPERFICIE PRINCIPAL GERENCIAL FORMICA 60X180X3CM TEK TKSU100000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 337,
+      "nombre": "22000107325",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_36_55_129374.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 3.0,
+    "producto_codigo": "22000107325",
+    "producto_descripcion": "PUNTERA TERMINAL PINTADA PARA SUPERFICIE 30MM PUESTO GERENCIAL TEK TKAC280000"
+  },
+  {
+    "categoria": {
+      "id": 12759,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.ELEMENTO DE REPOSICION",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 7.0,
+    "producto_codigo": "22000108106",
+    "producto_descripcion": "KIT PP TAPA DUCTO TERMINAL DOBLE LINK LKES010610"
+  },
+  {
+    "categoria": {
+      "id": 12639,
+      "padre_id": 12593
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ACCESORIO.GENERAL",
+    "imagen": {
+      "fecha_registro": "2021-05-08",
+      "id": 509,
+      "nombre": "22000109449",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 4.0,
+    "producto_codigo": "22000109449",
+    "producto_descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 70.0,
+    "producto_codigo": "22000113983",
+    "producto_descripcion": "SUPERFICIE PP RECTANGULAR FORMICA 120X60X2.5CM ERGOMATIC SES010309"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 37.0,
+    "producto_codigo": "22000114303",
+    "producto_descripcion": "FALDON PP CURVO METALICO PIINTADO 46X14X10CM MINEROS TKSES010248"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 25.0,
+    "producto_codigo": "22000114304",
+    "producto_descripcion": "RIOSTRA PP METALICA PINTADA 43X7X5CM MINEROS TKSES010252"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 51.0,
+    "producto_codigo": "22000114305",
+    "producto_descripcion": "COSTADO PP METALICO PINTADO 72X45X7CM MINEROS TKSES010255"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2023-01-14",
+      "id": 2850,
+      "nombre": "LKAC250000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_18_25_18443.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 39.0,
+    "producto_codigo": "22000116523",
+    "producto_descripcion": "GROMMET PINTADO 4 TOMAS ACCESORIO LINK LKAC250000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 364,
+      "nombre": "22000117196",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_44_8_765280.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 34.0,
+    "producto_codigo": "22000117196",
+    "producto_descripcion": "DUCTO BAJANTE DOBLE TEK TKAC380000"
+  },
+  {
+    "categoria": {
+      "id": 12886,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.ACCESORIO",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 11.0,
+    "producto_codigo": "22000118060",
+    "producto_descripcion": "KIT PP PRENSA PANTALLA PRODUBANCO LKES2407322"
+  },
+  {
+    "categoria": {
+      "id": 12886,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.ACCESORIO",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 28.0,
+    "producto_codigo": "22000118337",
+    "producto_descripcion": "GROMMET PP METALICO PINTADO 50X12X2.5CM PRODUBANCO-ECUADOR LKES2407486"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": {
+      "fecha_registro": "2022-05-27",
+      "id": 2336,
+      "nombre": "22000118427",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/5/27/15_55_32_484904.png"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 57.0,
+    "producto_codigo": "22000118427",
+    "producto_descripcion": "SUPERFICIE DERECHA FORMICA CON CAJA PARA GROMMET DE 60X90X3CM KUSU440000"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 77.0,
+    "producto_codigo": "22000119522",
+    "producto_descripcion": "SUPERFICIE PP RECTANGULAR SUPERCOR 160X70X2.5CM ECUADOR-PRODUBANCO LKES2409572"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 74.0,
+    "producto_codigo": "22000119539",
+    "producto_descripcion": "COSTADO PP EN O TERMINAL METALICO 140X70X18CM ECUADOR-PRODUBANCO LKES2409573"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 79.0,
+    "producto_codigo": "22000119540",
+    "producto_descripcion": "COSTADO PP EN O INTERMEDIO METALICO 140X70X18CM ECUADOR-PRODUBANCO LKES2409577"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 107.0,
+    "producto_codigo": "22000119541",
+    "producto_descripcion": "DUCTO PP CABLEADO METALICO 160X22X13CM ECUADOR-PRODUBANCO LKES2409579"
+  },
+  {
+    "categoria": {
+      "id": 12653,
+      "padre_id": 12593
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ACCESORIO.PANTALLA",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 83.0,
+    "producto_codigo": "22000119665",
+    "producto_descripcion": "CUERPO PP PANTALLA VIDRIO LAMINADO 4+4 ECUADOR-PRODUBANCO LKES2409585"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 30.0,
+    "producto_codigo": "22000123148",
+    "producto_descripcion": "VIGA PP REFUERZO INTERMEDIA METALICA PINTURA BLANCO AC P7 BRILLANTE 154X5X5CM ECUADOR-PRODUBANCO LKES4102977"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 30.0,
+    "producto_codigo": "22000123149",
+    "producto_descripcion": "VIGA PP REFUERZO TERMINAL METALICA PINTURA BLANCO AC P7 BRILLANTE 152X5X5CM ECUADOR-PRODUBANCO LKES4102975"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 22.0,
+    "producto_codigo": "22000123150",
+    "producto_descripcion": "SOPORTE PP SUPERFICIE PINTURA BLANCO AC P7 BRILLANTE 107CM PRODUBANCO LKES4102979"
+  },
+  {
+    "categoria": {
+      "id": 12886,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.ACCESORIO",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 41.0,
+    "producto_codigo": "22000123278",
+    "producto_descripcion": "CAJA PP 3 TOMAS METALICA GRUPO SUPERIOR ECUADOR LKES4103657"
+  },
+  {
+    "categoria": {
+      "id": 12717,
+      "padre_id": 12704
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.KUO-GO.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 100.0,
+    "producto_codigo": "22000123744",
+    "producto_descripcion": "SUPERFICIE TRABAJO RECTANGULAR ESQUINAS RECTAS 120X80X3CM FORMICA KUO KUSU170000"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-12-07",
+      "id": 2689,
+      "nombre": "LKAC670000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_6_7_942671.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 29.0,
+    "producto_codigo": "22000126724",
+    "producto_descripcion": "GROMMET ANODIZADO 3 TOMAS 41X10X3.3CM LINK LKAC670000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2411,
+      "nombre": "22000127237",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_130185.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 47.0,
+    "producto_codigo": "22000127237",
+    "producto_descripcion": "COSTADO SENCILLO TERMINAL PINTADO DE 71X60CM TEK (V2) TKSO340000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2411,
+      "nombre": "22000127237",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_130185.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 48.0,
+    "producto_codigo": "22000127238",
+    "producto_descripcion": "COSTADO SENCILLO TERMINAL PINTADO DE 75CM TEK (V2) TKSO340000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2417,
+      "nombre": "22000127871",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_154598.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 15.0,
+    "producto_codigo": "22000127874",
+    "producto_descripcion": "VIGA REFUERZO DE 165CM METALICA PINTADA TEK (V2) TKSO390000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 30.0,
+    "producto_codigo": "22000127878",
+    "producto_descripcion": "KIT GROMMET TERMINAL 165CM ANODIZADO TEK (V2) TKAC610000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 30.0,
+    "producto_codigo": "22000127886",
+    "producto_descripcion": "KIT GROMMET INTERMEDIO 165CM ANODIZADO TEK (V2) TKAC620000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 22.0,
+    "producto_codigo": "22000127891",
+    "producto_descripcion": "KIT GROMMET INDIVIDUAL 120CM ANODIZADO TEK (V2) TKAC630000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 25.0,
+    "producto_codigo": "22000127892",
+    "producto_descripcion": "KIT GROMMET INDIVIDUAL 135CM ANODIZADO TEK (V2) TKAC630000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 25.0,
+    "producto_codigo": "22000127893",
+    "producto_descripcion": "KIT GROMMET INDIVIDUAL 150CM ANODIZADO TEK (V2) TKAC630000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 30.0,
+    "producto_codigo": "22000127894",
+    "producto_descripcion": "KIT GROMMET INDIVIDUAL 165CM ANODIZADO TEK (V2) TKAC630000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 196.0,
+    "producto_codigo": "22000129415",
+    "producto_descripcion": "COLUMNA DOBLE TERMINAL 180CM METALICA LABORATORIO HLSO001000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 198.0,
+    "producto_codigo": "22000129416",
+    "producto_descripcion": "COLUMNA DOBLE INTERMEDIA 180CM METALICA LABORATORIO HLSO002000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 70.0,
+    "producto_codigo": "22000129430",
+    "producto_descripcion": "DUCTO CABLEADO 120CM DOBLE INDIVIDUAL METALICO LABORATORIO HLSO009000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 75.0,
+    "producto_codigo": "22000129431",
+    "producto_descripcion": "DUCTO CABLEADO 150CM DOBLE INDIVIDUAL METALICO LABORATORIO HLSO009000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 70.0,
+    "producto_codigo": "22000129432",
+    "producto_descripcion": "DUCTO CABLEADO 120CM DOBLE TERMINAL METALICO LABORATORIO HLSO010000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 76.0,
+    "producto_codigo": "22000129433",
+    "producto_descripcion": "DUCTO CABLEADO 150CM DOBLE TERMINAL METALICO LABORATORIO HLSO010000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 71.0,
+    "producto_codigo": "22000129434",
+    "producto_descripcion": "DUCTO CABLEADO 120CM DOBLE INTERMEDIO METALICO LABORATORIO HLSO011000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 76.0,
+    "producto_codigo": "22000129435",
+    "producto_descripcion": "DUCTO CABLEADO 150CM DOBLE INTERMEDIO METALICO LABORATORIO HLSO011000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 36.0,
+    "producto_codigo": "22000129436",
+    "producto_descripcion": "VIGA DOBLE INDIVIDUAL 120CM PINTADA LABORATORIO HLSO020000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 42.0,
+    "producto_codigo": "22000129437",
+    "producto_descripcion": "VIGA DOBLE INDIVIDUAL 150CM PINTADA LABORATORIO HLSO020000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 36.0,
+    "producto_codigo": "22000129438",
+    "producto_descripcion": "VIGA DOBLE TERMINAL 120CM PINTADA LABORATORIO HLSO023000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 42.0,
+    "producto_codigo": "22000129439",
+    "producto_descripcion": "VIGA DOBLE TERMINAL 150CM PINTADA LABORATORIO HLSO023000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 36.0,
+    "producto_codigo": "22000129440",
+    "producto_descripcion": "VIGA DOBLE INTERMEDIA 120CM PINTADA LABORATORIO HLSO024000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 42.0,
+    "producto_codigo": "22000129441",
+    "producto_descripcion": "VIGA DOBLE INTERMEDIA 150CM PINTADA LABORATORIO HLSO024000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 53.0,
+    "producto_codigo": "22000129454",
+    "producto_descripcion": "VIGA INDIVIDUAL SUPERFICIE 120CM METALICA LABORATORIO HLAC007000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 59.0,
+    "producto_codigo": "22000129455",
+    "producto_descripcion": "VIGA INDIVIDUAL SUPERFICIE 150CM METALICA LABORATORIO HLAC007000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 53.0,
+    "producto_codigo": "22000129456",
+    "producto_descripcion": "VIGA TERMINAL SUPERFICIE 120CM METALICA LABORATORIO HLAC008000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 59.0,
+    "producto_codigo": "22000129457",
+    "producto_descripcion": "VIGA TERMINAL SUPERFICIE 150CM METALICA LABORATORIO HLAC008000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 53.0,
+    "producto_codigo": "22000129458",
+    "producto_descripcion": "VIGA INTERMEDIA SUPERFICIE 120CM METALICA LABORATORIO HLAC009000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 59.0,
+    "producto_codigo": "22000129459",
+    "producto_descripcion": "VIGA INTERMEDIA SUPERFICIE 150CM METALICO LABORATORIO HLAC009000"
+  },
+  {
+    "categoria": {
+      "id": 12883,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 140.0,
+    "producto_codigo": "22000129891",
+    "producto_descripcion": "SUPERFICIE RECTA FORMICA CHEMLAM WHITE 120X75CM LABORATORIO HLSU001000"
+  },
+  {
+    "categoria": {
+      "id": 12883,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 229.0,
+    "producto_codigo": "22000129893",
+    "producto_descripcion": "SUPERFICIE RECTA FORMICA CHEMLAM WHITE 150X75CM LABORATORIO HLSU001000"
+  },
+  {
+    "categoria": {
+      "id": 12880,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.ALMACENAMIENTO",
+    "imagen": {
+      "fecha_registro": "2023-08-22",
+      "id": 3486,
+      "nombre": "HLAL003000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2023/8/22/21_45_28_471752.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 434.0,
+    "producto_codigo": "22000130309",
+    "producto_descripcion": "MUEBLE NAVES METALICAS CON PERFORACION POCETA 120X60X90CM LABORATORIO HLAL006000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 70.0,
+    "producto_codigo": "22000130343",
+    "producto_descripcion": "DUCTO PARA FLUIDOS 120CM DOBLE TERMINAL METALICO LABORATORIO HLSO015000"
+  },
+  {
+    "categoria": {
+      "id": 12883,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 168.0,
+    "producto_codigo": "22000130775",
+    "producto_descripcion": "SUPERFICIE RECTA FORMICA CHEMLAM WHITE 120X100CM LABORATORIO HLSU001000"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 50.0,
+    "producto_codigo": "22000131297",
+    "producto_descripcion": "VIGA PP METALICA 73CM PINTADA RIMON LAW TKSES0101278"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 34.0,
+    "producto_codigo": "22000131298",
+    "producto_descripcion": "FALDON PP RECTO 150CM RIMON LAW TKSES0101281"
+  },
+  {
+    "categoria": {
+      "id": 12639,
+      "padre_id": 12593
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ACCESORIO.GENERAL",
+    "imagen": {
+      "fecha_registro": "2021-05-08",
+      "id": 511,
+      "nombre": "22189410488",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+    },
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 6.0,
+    "producto_codigo": "22189410488",
+    "producto_descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 135.0,
+    "producto_codigo": "22191700319",
+    "producto_descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 150X75X3CM SPR010100"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": null,
+    "lista": "MEPAL_CO_Sur America",
+    "precio": 58.0,
+    "producto_codigo": "22191700325",
+    "producto_descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 90X60X3CM SPR010010"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-19",
+      "id": 832,
+      "nombre": "22000009982",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_42_56_263917.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 50.0,
+    "producto_codigo": "22000009982",
+    "producto_descripcion": "DUCTO BAJANTE PISO DOBLE 50X20X10CM LINK LKAC120000"
+  },
+  {
+    "categoria": {
+      "id": 12623,
+      "padre_id": 12592
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ALMACENAMIENTO.BIBLIOTECA",
+    "imagen": {
+      "fecha_registro": "2023-02-20",
+      "id": 3106,
+      "nombre": "ALM1320000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/3/22/22_28_41_722967.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 936.1,
+    "producto_codigo": "22000020062",
+    "producto_descripcion": "BIBLIOTECA METALICA 3 ENTREPAÑOS CON PUERTA FORMICA CON MANIJA 132X90X50CM ALMACENAMIENTO ALM1320000"
+  },
+  {
+    "categoria": {
+      "id": 12624,
+      "padre_id": 12592
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ALMACENAMIENTO.CAJONERA",
+    "imagen": {
+      "fecha_registro": "2021-07-22",
+      "id": 1788,
+      "nombre": "ALM1540000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/5/14_22_3_146977.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 379.0,
+    "producto_codigo": "22000020537",
+    "producto_descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO CON MANIJA 57X40X50CM ALMACENAMIENTO ALM1540000"
+  },
+  {
+    "categoria": {
+      "id": 12624,
+      "padre_id": 12592
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ALMACENAMIENTO.CAJONERA",
+    "imagen": {
+      "fecha_registro": "2021-08-06",
+      "id": 1888,
+      "nombre": "ALM1080000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/6/12/21_8_35_287839.png"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 353.0,
+    "producto_codigo": "22000020538",
+    "producto_descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 57X40X50CM ALMACENAMIENTO ALM1080000"
+  },
+  {
+    "categoria": {
+      "id": 12654,
+      "padre_id": 12592
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ALMACENAMIENTO.PEDESTAL",
+    "imagen": {
+      "fecha_registro": "2021-08-06",
+      "id": 1891,
+      "nombre": "ALM1000000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/8/6/21_8_5_459576.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 358.0,
+    "producto_codigo": "22000020559",
+    "producto_descripcion": "PEDESTAL FIJO RIEL EXTENSION TOTAL 2 GAVETAS 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 71X40X50CM ALMACENAMIENTO ALM1000000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 310,
+      "nombre": "22000104949",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_28_50_424187.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 36.0,
+    "producto_codigo": "22000104949",
+    "producto_descripcion": "DUCTO BAJANTE A PISO INDIVIDUAL TEK TKAC120000"
+  },
+  {
+    "categoria": {
+      "id": 12617,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.ALMACENAMIENTO",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 314,
+      "nombre": "22000105114",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/5/16_48_39_339416.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 906.0,
+    "producto_codigo": "22000105114",
+    "producto_descripcion": "CREDENZA GERENCIA DERECHA METALICA 2S+1A FRENTES FORMICA 64X120X50CM TEK TKAL010000"
+  },
+  {
+    "categoria": {
+      "id": 12617,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.ALMACENAMIENTO",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 314,
+      "nombre": "22000105114",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/5/16_48_39_339416.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 990.0,
+    "producto_codigo": "22000105116",
+    "producto_descripcion": "CREDENZA GERENCIA DERECHA METALICA 2S+1A FRENTES FORMICA 64X150X50CM TEK TKAL010000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 322,
+      "nombre": "22000105122",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_31_34_107352.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 86.9,
+    "producto_codigo": "22000105122",
+    "producto_descripcion": "VIGA CONECTORA  METALICA 165  CM TEK TKSO110000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 322,
+      "nombre": "22000105122",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_31_34_107352.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 86.9,
+    "producto_codigo": "22000105123",
+    "producto_descripcion": "VIGA CONECTORA  METALICA 180CM TEK TKSO110000"
+  },
+  {
+    "categoria": {
+      "id": 12760,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 230.0,
+    "producto_codigo": "22000107323",
+    "producto_descripcion": "SUPERFICIE PRINCIPAL GERENCIAL FORMICA 60X165X3CM TEK TKSU100000"
+  },
+  {
+    "categoria": {
+      "id": 12760,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 267.0,
+    "producto_codigo": "22000107324",
+    "producto_descripcion": "SUPERFICIE PRINCIPAL GERENCIAL FORMICA 60X180X3CM TEK TKSU100000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 337,
+      "nombre": "22000107325",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_36_55_129374.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 8.0,
+    "producto_codigo": "22000107325",
+    "producto_descripcion": "PUNTERA TERMINAL PINTADA PARA SUPERFICIE 30MM PUESTO GERENCIAL TEK TKAC280000"
+  },
+  {
+    "categoria": {
+      "id": 12759,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.ELEMENTO DE REPOSICION",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 15.0,
+    "producto_codigo": "22000108106",
+    "producto_descripcion": "KIT PP TAPA DUCTO TERMINAL DOBLE LINK LKES010610"
+  },
+  {
+    "categoria": {
+      "id": 12639,
+      "padre_id": 12593
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ACCESORIO.GENERAL",
+    "imagen": {
+      "fecha_registro": "2021-05-08",
+      "id": 509,
+      "nombre": "22000109449",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_48_38_226997.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 9.0,
+    "producto_codigo": "22000109449",
+    "producto_descripcion": "LAMINA UNION SUPERFICIES ACCESORIO MULTIPLE MAC390020"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 151.0,
+    "producto_codigo": "22000113983",
+    "producto_descripcion": "SUPERFICIE PP RECTANGULAR FORMICA 120X60X2.5CM ERGOMATIC SES010309"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 74.0,
+    "producto_codigo": "22000114303",
+    "producto_descripcion": "FALDON PP CURVO METALICO PIINTADO 46X14X10CM MINEROS TKSES010248"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 50.0,
+    "producto_codigo": "22000114304",
+    "producto_descripcion": "RIOSTRA PP METALICA PINTADA 43X7X5CM MINEROS TKSES010252"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 103.0,
+    "producto_codigo": "22000114305",
+    "producto_descripcion": "COSTADO PP METALICO PINTADO 72X45X7CM MINEROS TKSES010255"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2023-01-14",
+      "id": 2850,
+      "nombre": "LKAC250000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_18_25_18443.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 82.0,
+    "producto_codigo": "22000116523",
+    "producto_descripcion": "GROMMET PINTADO 4 TOMAS ACCESORIO LINK LKAC250000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2021-05-05",
+      "id": 364,
+      "nombre": "22000117196",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/6/1_44_8_765280.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 67.0,
+    "producto_codigo": "22000117196",
+    "producto_descripcion": "DUCTO BAJANTE DOBLE TEK TKAC380000"
+  },
+  {
+    "categoria": {
+      "id": 12886,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.ACCESORIO",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 20.0,
+    "producto_codigo": "22000118060",
+    "producto_descripcion": "KIT PP PRENSA PANTALLA PRODUBANCO LKES2407322"
+  },
+  {
+    "categoria": {
+      "id": 12886,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.ACCESORIO",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 57.0,
+    "producto_codigo": "22000118337",
+    "producto_descripcion": "GROMMET PP METALICO PINTADO 50X12X2.5CM PRODUBANCO-ECUADOR LKES2407486"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": {
+      "fecha_registro": "2022-05-27",
+      "id": 2336,
+      "nombre": "22000118427",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/5/27/15_55_32_484904.png"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 121.0,
+    "producto_codigo": "22000118427",
+    "producto_descripcion": "SUPERFICIE DERECHA FORMICA CON CAJA PARA GROMMET DE 60X90X3CM KUSU440000"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 171.0,
+    "producto_codigo": "22000119522",
+    "producto_descripcion": "SUPERFICIE PP RECTANGULAR SUPERCOR 160X70X2.5CM ECUADOR-PRODUBANCO LKES2409572"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 158.0,
+    "producto_codigo": "22000119539",
+    "producto_descripcion": "COSTADO PP EN O TERMINAL METALICO 140X70X18CM ECUADOR-PRODUBANCO LKES2409573"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 169.0,
+    "producto_codigo": "22000119540",
+    "producto_descripcion": "COSTADO PP EN O INTERMEDIO METALICO 140X70X18CM ECUADOR-PRODUBANCO LKES2409577"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 212.0,
+    "producto_codigo": "22000119541",
+    "producto_descripcion": "DUCTO PP CABLEADO METALICO 160X22X13CM ECUADOR-PRODUBANCO LKES2409579"
+  },
+  {
+    "categoria": {
+      "id": 12653,
+      "padre_id": 12593
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ACCESORIO.PANTALLA",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 165.0,
+    "producto_codigo": "22000119665",
+    "producto_descripcion": "CUERPO PP PANTALLA VIDRIO LAMINADO 4+4 ECUADOR-PRODUBANCO LKES2409585"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 65.0,
+    "producto_codigo": "22000123148",
+    "producto_descripcion": "VIGA PP REFUERZO INTERMEDIA METALICA PINTURA BLANCO AC P7 BRILLANTE 154X5X5CM ECUADOR-PRODUBANCO LKES4102977"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 65.0,
+    "producto_codigo": "22000123149",
+    "producto_descripcion": "VIGA PP REFUERZO TERMINAL METALICA PINTURA BLANCO AC P7 BRILLANTE 152X5X5CM ECUADOR-PRODUBANCO LKES4102975"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 44.0,
+    "producto_codigo": "22000123150",
+    "producto_descripcion": "SOPORTE PP SUPERFICIE PINTURA BLANCO AC P7 BRILLANTE 107CM PRODUBANCO LKES4102979"
+  },
+  {
+    "categoria": {
+      "id": 12886,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.ACCESORIO",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 81.0,
+    "producto_codigo": "22000123278",
+    "producto_descripcion": "CAJA PP 3 TOMAS METALICA GRUPO SUPERIOR ECUADOR LKES4103657"
+  },
+  {
+    "categoria": {
+      "id": 12717,
+      "padre_id": 12704
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.KUO-GO.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 214.0,
+    "producto_codigo": "22000123744",
+    "producto_descripcion": "SUPERFICIE TRABAJO RECTANGULAR ESQUINAS RECTAS 120X80X3CM FORMICA KUO KUSU170000"
+  },
+  {
+    "categoria": {
+      "id": 12661,
+      "padre_id": 12583
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.LINK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-12-07",
+      "id": 2689,
+      "nombre": "LKAC670000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_6_7_942671.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 62.0,
+    "producto_codigo": "22000126724",
+    "producto_descripcion": "GROMMET ANODIZADO 3 TOMAS 41X10X3.3CM LINK LKAC670000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2411,
+      "nombre": "22000127237",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_130185.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 93.0,
+    "producto_codigo": "22000127237",
+    "producto_descripcion": "COSTADO SENCILLO TERMINAL PINTADO DE 71X60CM TEK (V2) TKSO340000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2411,
+      "nombre": "22000127237",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_130185.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 95.0,
+    "producto_codigo": "22000127238",
+    "producto_descripcion": "COSTADO SENCILLO TERMINAL PINTADO DE 75CM TEK (V2) TKSO340000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2417,
+      "nombre": "22000127871",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_154598.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 30.0,
+    "producto_codigo": "22000127874",
+    "producto_descripcion": "VIGA REFUERZO DE 165CM METALICA PINTADA TEK (V2) TKSO390000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 60.0,
+    "producto_codigo": "22000127878",
+    "producto_descripcion": "KIT GROMMET TERMINAL 165CM ANODIZADO TEK (V2) TKAC610000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 60.0,
+    "producto_codigo": "22000127886",
+    "producto_descripcion": "KIT GROMMET INTERMEDIO 165CM ANODIZADO TEK (V2) TKAC620000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 45.0,
+    "producto_codigo": "22000127891",
+    "producto_descripcion": "KIT GROMMET INDIVIDUAL 120CM ANODIZADO TEK (V2) TKAC630000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 51.0,
+    "producto_codigo": "22000127892",
+    "producto_descripcion": "KIT GROMMET INDIVIDUAL 135CM ANODIZADO TEK (V2) TKAC630000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 50.0,
+    "producto_codigo": "22000127893",
+    "producto_descripcion": "KIT GROMMET INDIVIDUAL 150CM ANODIZADO TEK (V2) TKAC630000"
+  },
+  {
+    "categoria": {
+      "id": 12666,
+      "padre_id": 12584
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TEK.SOPORTE",
+    "imagen": {
+      "fecha_registro": "2022-08-01",
+      "id": 2418,
+      "nombre": "TKAC610000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2022/8/1/21_18_39_157873.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 60.0,
+    "producto_codigo": "22000127894",
+    "producto_descripcion": "KIT GROMMET INDIVIDUAL 165CM ANODIZADO TEK (V2) TKAC630000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 389.0,
+    "producto_codigo": "22000129415",
+    "producto_descripcion": "COLUMNA DOBLE TERMINAL 180CM METALICA LABORATORIO HLSO001000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 392.0,
+    "producto_codigo": "22000129416",
+    "producto_descripcion": "COLUMNA DOBLE INTERMEDIA 180CM METALICA LABORATORIO HLSO002000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 139.0,
+    "producto_codigo": "22000129430",
+    "producto_descripcion": "DUCTO CABLEADO 120CM DOBLE INDIVIDUAL METALICO LABORATORIO HLSO009000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 148.0,
+    "producto_codigo": "22000129431",
+    "producto_descripcion": "DUCTO CABLEADO 150CM DOBLE INDIVIDUAL METALICO LABORATORIO HLSO009000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 139.0,
+    "producto_codigo": "22000129432",
+    "producto_descripcion": "DUCTO CABLEADO 120CM DOBLE TERMINAL METALICO LABORATORIO HLSO010000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 149.0,
+    "producto_codigo": "22000129433",
+    "producto_descripcion": "DUCTO CABLEADO 150CM DOBLE TERMINAL METALICO LABORATORIO HLSO010000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 141.0,
+    "producto_codigo": "22000129434",
+    "producto_descripcion": "DUCTO CABLEADO 120CM DOBLE INTERMEDIO METALICO LABORATORIO HLSO011000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 150.0,
+    "producto_codigo": "22000129435",
+    "producto_descripcion": "DUCTO CABLEADO 150CM DOBLE INTERMEDIO METALICO LABORATORIO HLSO011000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 72.0,
+    "producto_codigo": "22000129436",
+    "producto_descripcion": "VIGA DOBLE INDIVIDUAL 120CM PINTADA LABORATORIO HLSO020000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 84.0,
+    "producto_codigo": "22000129437",
+    "producto_descripcion": "VIGA DOBLE INDIVIDUAL 150CM PINTADA LABORATORIO HLSO020000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 72.0,
+    "producto_codigo": "22000129438",
+    "producto_descripcion": "VIGA DOBLE TERMINAL 120CM PINTADA LABORATORIO HLSO023000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 84.0,
+    "producto_codigo": "22000129439",
+    "producto_descripcion": "VIGA DOBLE TERMINAL 150CM PINTADA LABORATORIO HLSO023000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 72.0,
+    "producto_codigo": "22000129440",
+    "producto_descripcion": "VIGA DOBLE INTERMEDIA 120CM PINTADA LABORATORIO HLSO024000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 84.0,
+    "producto_codigo": "22000129441",
+    "producto_descripcion": "VIGA DOBLE INTERMEDIA 150CM PINTADA LABORATORIO HLSO024000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 53.0,
+    "producto_codigo": "22000129454",
+    "producto_descripcion": "VIGA INDIVIDUAL SUPERFICIE 120CM METALICA LABORATORIO HLAC007000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 57.0,
+    "producto_codigo": "22000129455",
+    "producto_descripcion": "VIGA INDIVIDUAL SUPERFICIE 150CM METALICA LABORATORIO HLAC007000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 53.0,
+    "producto_codigo": "22000129456",
+    "producto_descripcion": "VIGA TERMINAL SUPERFICIE 120CM METALICA LABORATORIO HLAC008000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 57.0,
+    "producto_codigo": "22000129457",
+    "producto_descripcion": "VIGA TERMINAL SUPERFICIE 150CM METALICA LABORATORIO HLAC008000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 53.0,
+    "producto_codigo": "22000129458",
+    "producto_descripcion": "VIGA INTERMEDIA SUPERFICIE 120CM METALICA LABORATORIO HLAC009000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 57.0,
+    "producto_codigo": "22000129459",
+    "producto_descripcion": "VIGA INTERMEDIA SUPERFICIE 150CM METALICO LABORATORIO HLAC009000"
+  },
+  {
+    "categoria": {
+      "id": 12883,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 279.0,
+    "producto_codigo": "22000129891",
+    "producto_descripcion": "SUPERFICIE RECTA FORMICA CHEMLAM WHITE 120X75CM LABORATORIO HLSU001000"
+  },
+  {
+    "categoria": {
+      "id": 12883,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 454.0,
+    "producto_codigo": "22000129893",
+    "producto_descripcion": "SUPERFICIE RECTA FORMICA CHEMLAM WHITE 150X75CM LABORATORIO HLSU001000"
+  },
+  {
+    "categoria": {
+      "id": 12880,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.ALMACENAMIENTO",
+    "imagen": {
+      "fecha_registro": "2023-08-22",
+      "id": 3486,
+      "nombre": "HLAL003000",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2023/8/22/21_45_28_471752.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 858.0,
+    "producto_codigo": "22000130309",
+    "producto_descripcion": "MUEBLE NAVES METALICAS CON PERFORACION POCETA 120X60X90CM LABORATORIO HLAL006000"
+  },
+  {
+    "categoria": {
+      "id": 12882,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 140.0,
+    "producto_codigo": "22000130343",
+    "producto_descripcion": "DUCTO PARA FLUIDOS 120CM DOBLE TERMINAL METALICO LABORATORIO HLSO015000"
+  },
+  {
+    "categoria": {
+      "id": 12883,
+      "padre_id": 12878
+    },
+    "categoria_slug": "MUEBLES PARA SECTOR SALUD.LABORATORIO.SUPERFICIE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 335.0,
+    "producto_codigo": "22000130775",
+    "producto_descripcion": "SUPERFICIE RECTA FORMICA CHEMLAM WHITE 120X100CM LABORATORIO HLSU001000"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 100.0,
+    "producto_codigo": "22000131297",
+    "producto_descripcion": "VIGA PP METALICA 73CM PINTADA RIMON LAW TKSES0101278"
+  },
+  {
+    "categoria": {
+      "id": 12662,
+      "padre_id": 12590
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.TK SOCIAL.SOPORTE",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 66.0,
+    "producto_codigo": "22000131298",
+    "producto_descripcion": "FALDON PP RECTO 150CM RIMON LAW TKSES0101281"
+  },
+  {
+    "categoria": {
+      "id": 12639,
+      "padre_id": 12593
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.ACCESORIO.GENERAL",
+    "imagen": {
+      "fecha_registro": "2021-05-08",
+      "id": 511,
+      "nombre": "22189410488",
+      "ubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+    },
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 13.0,
+    "producto_codigo": "22189410488",
+    "producto_descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 284.0,
+    "producto_codigo": "22191700319",
+    "producto_descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 150X75X3CM SPR010100"
+  },
+  {
+    "categoria": {
+      "id": 12638,
+      "padre_id": 12591
+    },
+    "categoria_slug": "SISTEMAS MODULARES DE OFICINA.SUPERFICIE.GENERAL",
+    "imagen": null,
+    "lista": "MEPAL_EC_Nacionales",
+    "precio": 121.0,
+    "producto_codigo": "22191700325",
+    "producto_descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 90X60X3CM SPR010010"
+  }
+]

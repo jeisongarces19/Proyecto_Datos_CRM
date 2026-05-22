@@ -1,0 +1,12 @@
+# Permitir acceso sin autenticación
+<Directory "/home/u630184854/domains/mepal.com.co/public_html/crm/api_json/">
+    Options +Indexes
+    AllowOverride None
+    Require all granted
+</Directory>
+
+# Permitir acceso a los archivos JSON
+<FilesMatch "\.(json)$">
+    Satisfy Any
+    Require all granted
+</FilesMatch>
