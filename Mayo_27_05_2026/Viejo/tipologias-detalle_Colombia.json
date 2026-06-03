@@ -12458,6 +12458,78 @@
     "hijos": []
   },
   {
+    "codigo": "22000126044",
+    "descripcion": "ISLA DE 4 PUESTOS TEK 135 X 75 X 2,5CM FORMICA GROMMET ALUMINIO PANTALLA FRONTAL VIDRIO LAMINADO CON CAJONERA MOVIL",
+    "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
+    "categoria_tipologia_id": 12772,
+    "lista": "MEPAL_CO_Nacionales",
+    "imagen": {
+      "id": 2260,
+      "nombre": "T-ISLA4P TEK CajoneraMovilYPantVidrioLam",
+      "ubicacion": "uploads/2022/4/22/20_59_7_724629.jpg",
+      "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/4/22/20_59_7_724629.jpg"
+    },
+    "hijos": [
+      {
+        "id": 62427,
+        "cantidad": 4,
+        "precio_acumulado": 5140000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1266300.0,
+        "producto": {
+          "codigo": "22000020538",
+          "descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 57X40X50CM ALMACENAMIENTO ALM1080000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12624,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1888,
+            "nombre": "ALM1080000",
+            "ubicacion": "uploads/2024/6/12/21_8_35_287839.png",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/6/12/21_8_35_287839.png"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "codigo": "22000126045",
+    "descripcion": "ISLA DE 6 PUESTOS TEK 135 X 75 X 2,5CM FORMICA GROMMET ALUMINIO PANTALLA FRONTAL VIDRIO LAMINADO CON CAJONERA MOVIL",
+    "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
+    "categoria_tipologia_id": 12746,
+    "lista": "MEPAL_CO_Nacionales",
+    "imagen": {
+      "id": 2257,
+      "nombre": "T-TEK ISLA 6 ConCajoneraMovilyPantVidrioLam",
+      "ubicacion": "uploads/2022/4/22/20_53_9_424164.jpg",
+      "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/4/22/20_53_9_424164.jpg"
+    },
+    "hijos": [
+      {
+        "id": 62438,
+        "cantidad": 6,
+        "precio_acumulado": 2118.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1266300.0,
+        "producto": {
+          "codigo": "22000020538",
+          "descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 57X40X50CM ALMACENAMIENTO ALM1080000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12624,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1888,
+            "nombre": "ALM1080000",
+            "ubicacion": "uploads/2024/6/12/21_8_35_287839.png",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/6/12/21_8_35_287839.png"
+          }
+        }
+      }
+    ]
+  },
+  {
     "codigo": "22000126047",
     "descripcion": "ISLA DE 6 PUESTOS TEK 150 X 75 X 3,0CM FORMICA GROMMET ALUMINIO PANTALLA FRONTAL Y LATERAL VIDRIO LAMINADO SIN ALMACENAMIENTO",
     "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
@@ -13799,6 +13871,404 @@
     ]
   },
   {
+    "codigo": "22000126070",
+    "descripcion": "PUESTO JEFATURA LINK 150 X 150 X 3,0CM FALDON FORMICA CON GROMMET CON PEDESTAL FIJO",
+    "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
+    "categoria_tipologia_id": 12966,
+    "lista": "MEPAL_CO_Nacionales",
+    "imagen": {
+      "id": 2316,
+      "nombre": "T-LINK- PJEF-150 con FaldayPedestal",
+      "ubicacion": "uploads/2022/5/12/14_40_49_648325.jpg",
+      "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/5/12/14_40_49_648325.jpg"
+    },
+    "hijos": [
+      {
+        "id": 62530,
+        "cantidad": 1,
+        "precio_acumulado": 205800.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 205800.0,
+        "producto": {
+          "codigo": "22000032568",
+          "descripcion": "VIGA REFUERZO DE 150CM LINK ELEMENTOS SOPORTE ELSO340000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "La viga refuerzo del plano ELSO340000 es rematable en largo L: desde 100 hasta 240cm.",
+          "imagen": {
+            "id": 2690,
+            "nombre": "ELSO340000",
+            "ubicacion": "uploads/2022/12/7/21_6_24_618444.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/12/7/21_6_24_618444.jpg"
+          }
+        }
+      },
+      {
+        "id": 62532,
+        "cantidad": 2,
+        "precio_acumulado": 98700.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 49350.0,
+        "producto": {
+          "codigo": "22189410488",
+          "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+          "categoria_producto_id": 12639,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 511,
+            "nombre": "22189410488",
+            "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+          }
+        }
+      },
+      {
+        "id": 62529,
+        "cantidad": 1,
+        "precio_acumulado": 1510950.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1510950.0,
+        "producto": {
+          "codigo": "22000020558",
+          "descripcion": "PEDESTAL FIJO RIEL EXTENSION TOTAL 2 GAVETAS 1 ARCHIVO FRENTE METALICO CON MANIJA 71X40X50CM ALMACENAMIENTO ALM1460000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12654,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1784,
+            "nombre": "ALM1460000",
+            "ubicacion": "uploads/2021/7/21/22_11_18_400434.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/7/21/22_11_18_400434.jpg"
+          }
+        }
+      },
+      {
+        "id": 62525,
+        "cantidad": 2,
+        "precio_acumulado": 688800.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 344400.0,
+        "producto": {
+          "codigo": "22000032441",
+          "descripcion": "COSTADO SENCILLO TERMINAL PINTADO 60X71CM TIPO LINK ELEMENTOS SOPORTE ELSO090000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2847,
+            "nombre": "ELSO090000",
+            "ubicacion": "uploads/2023/1/14/14_56_40_670556.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/14_56_40_670556.jpg"
+          }
+        }
+      },
+      {
+        "id": 62524,
+        "cantidad": 1,
+        "precio_acumulado": 430500.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 430500.0,
+        "producto": {
+          "codigo": "22000118427",
+          "descripcion": "SUPERFICIE DERECHA FORMICA CON CAJA PARA GROMMET DE 60X90X3CM KUSU440000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12638,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2336,
+            "nombre": "22000118427",
+            "ubicacion": "uploads/2022/5/27/15_55_32_484904.png",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/5/27/15_55_32_484904.png"
+          }
+        }
+      },
+      {
+        "id": 62533,
+        "cantidad": 1,
+        "precio_acumulado": 174300.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 174300.0,
+        "producto": {
+          "codigo": "22000036436",
+          "descripcion": "GROMMET 4X34X12 CM ACCESORIO CLAK CLME011000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12598,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1256,
+            "nombre": "22000122355",
+            "ubicacion": "uploads/2021/5/29/20_48_0_533785.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/29/20_48_0_533785.jpg"
+          }
+        }
+      },
+      {
+        "id": 62531,
+        "cantidad": 1,
+        "precio_acumulado": 405300.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 405300.0,
+        "producto": {
+          "codigo": "22000100968",
+          "descripcion": "FALDA FORMICA 150CM ACCESORIO KONCISA PYM100070",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12663,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 526,
+            "nombre": "22000103931",
+            "ubicacion": "uploads/2021/5/8/17_58_18_428947.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_58_18_428947.jpg"
+          }
+        }
+      },
+      {
+        "id": 62527,
+        "cantidad": 1,
+        "precio_acumulado": 189000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 189000.0,
+        "producto": {
+          "codigo": "22000011860",
+          "descripcion": "DUCTO BAJANTE PISO INDIVIDUAL 50X10X10CM LINK LKAC190000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 834,
+            "nombre": "22000011860",
+            "ubicacion": "uploads/2021/5/19/19_43_19_526750.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_19_526750.jpg"
+          }
+        }
+      },
+      {
+        "id": 62526,
+        "cantidad": 1,
+        "precio_acumulado": 698250.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 698250.0,
+        "producto": {
+          "codigo": "22191700361",
+          "descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 150X60X3CM SPR010100",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12638,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": null
+        }
+      }
+    ]
+  },
+  {
+    "codigo": "22000126071",
+    "descripcion": "PUESTO JEFATURA LINK 150 X 150 X 3,0CM FORMICA FALDON METALICO CON GROMMET CON PEDESTAL FIJO",
+    "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
+    "categoria_tipologia_id": 12966,
+    "lista": "MEPAL_CO_Nacionales",
+    "imagen": {
+      "id": 2317,
+      "nombre": "T-LINK- PJEF-150 con FaldaMetalicayPedestal",
+      "ubicacion": "uploads/2022/5/12/14_40_49_657238.jpg",
+      "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/5/12/14_40_49_657238.jpg"
+    },
+    "hijos": [
+      {
+        "id": 62542,
+        "cantidad": 1,
+        "precio_acumulado": 430500.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 430500.0,
+        "producto": {
+          "codigo": "22000118427",
+          "descripcion": "SUPERFICIE DERECHA FORMICA CON CAJA PARA GROMMET DE 60X90X3CM KUSU440000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12638,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2336,
+            "nombre": "22000118427",
+            "ubicacion": "uploads/2022/5/27/15_55_32_484904.png",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/5/27/15_55_32_484904.png"
+          }
+        }
+      },
+      {
+        "id": 62540,
+        "cantidad": 1,
+        "precio_acumulado": 1510950.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1510950.0,
+        "producto": {
+          "codigo": "22000020558",
+          "descripcion": "PEDESTAL FIJO RIEL EXTENSION TOTAL 2 GAVETAS 1 ARCHIVO FRENTE METALICO CON MANIJA 71X40X50CM ALMACENAMIENTO ALM1460000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12654,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1784,
+            "nombre": "ALM1460000",
+            "ubicacion": "uploads/2021/7/21/22_11_18_400434.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/7/21/22_11_18_400434.jpg"
+          }
+        }
+      },
+      {
+        "id": 62539,
+        "cantidad": 1,
+        "precio_acumulado": 698250.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 698250.0,
+        "producto": {
+          "codigo": "22191700361",
+          "descripcion": "SUPERFICIE PRINCIPAL RECTA UNICOR CON FORMICA 150X60X3CM SPR010100",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12638,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": null
+        }
+      },
+      {
+        "id": 62538,
+        "cantidad": 1,
+        "precio_acumulado": 174300.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 174300.0,
+        "producto": {
+          "codigo": "22000036436",
+          "descripcion": "GROMMET 4X34X12 CM ACCESORIO CLAK CLME011000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12598,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1256,
+            "nombre": "22000122355",
+            "ubicacion": "uploads/2021/5/29/20_48_0_533785.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/29/20_48_0_533785.jpg"
+          }
+        }
+      },
+      {
+        "id": 62537,
+        "cantidad": 1,
+        "precio_acumulado": 323400.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 323400.0,
+        "producto": {
+          "codigo": "22191701476",
+          "descripcion": "FALDA METALICA LAMINA PERFORADA CUADRADOS 3 LINEAS INTERCALADAS 150CM ACCESORIO COMPENDIO MCAC570001",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12636,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 528,
+            "nombre": "22191701470",
+            "ubicacion": "uploads/2021/5/8/18_8_3_337949.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/18_8_3_337949.jpg"
+          }
+        }
+      },
+      {
+        "id": 62534,
+        "cantidad": 2,
+        "precio_acumulado": 688800.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 344400.0,
+        "producto": {
+          "codigo": "22000032441",
+          "descripcion": "COSTADO SENCILLO TERMINAL PINTADO 60X71CM TIPO LINK ELEMENTOS SOPORTE ELSO090000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2847,
+            "nombre": "ELSO090000",
+            "ubicacion": "uploads/2023/1/14/14_56_40_670556.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/14_56_40_670556.jpg"
+          }
+        }
+      },
+      {
+        "id": 62536,
+        "cantidad": 2,
+        "precio_acumulado": 98700.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 49350.0,
+        "producto": {
+          "codigo": "22189410488",
+          "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+          "categoria_producto_id": 12639,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 511,
+            "nombre": "22189410488",
+            "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
+          }
+        }
+      },
+      {
+        "id": 62543,
+        "cantidad": 1,
+        "precio_acumulado": 205800.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 205800.0,
+        "producto": {
+          "codigo": "22000032568",
+          "descripcion": "VIGA REFUERZO DE 150CM LINK ELEMENTOS SOPORTE ELSO340000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "La viga refuerzo del plano ELSO340000 es rematable en largo L: desde 100 hasta 240cm.",
+          "imagen": {
+            "id": 2690,
+            "nombre": "ELSO340000",
+            "ubicacion": "uploads/2022/12/7/21_6_24_618444.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/12/7/21_6_24_618444.jpg"
+          }
+        }
+      },
+      {
+        "id": 62541,
+        "cantidad": 1,
+        "precio_acumulado": 189000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 189000.0,
+        "producto": {
+          "codigo": "22000011860",
+          "descripcion": "DUCTO BAJANTE PISO INDIVIDUAL 50X10X10CM LINK LKAC190000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 834,
+            "nombre": "22000011860",
+            "ubicacion": "uploads/2021/5/19/19_43_19_526750.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_19_526750.jpg"
+          }
+        }
+      }
+    ]
+  },
+  {
     "codigo": "22000126072",
     "descripcion": "ISLA DE 4 PUESTOS LINK 150 X 60 X 3,0CM FORMICA GROMMET ALUMINIO PANTALLA FRONTAL VIDRIO LAMINADO SIN ALMACENAMIENTO",
     "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
@@ -14159,6 +14629,63 @@
             "nombre": "LKAC250000",
             "ubicacion": "uploads/2023/1/14/15_18_25_18443.jpg",
             "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_18_25_18443.jpg"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "codigo": "22000126074",
+    "descripcion": "ISLA DE 4 PUESTOS TEK 150 X 60 X 3,0CM FORMICA GROMMET ALUMINIO PANTALLA FRONTAL VIDRIO LAMINADO CON CAJONERA MOVIL",
+    "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
+    "categoria_tipologia_id": 12772,
+    "lista": "MEPAL_CO_Nacionales",
+    "imagen": {
+      "id": 2331,
+      "nombre": "T-ISLA4P TEK CajoneraMovilManijaYPantVidrioLam",
+      "ubicacion": "uploads/2022/5/23/16_50_2_183462.jpg",
+      "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/5/23/16_50_2_183462.jpg"
+    },
+    "hijos": [
+      {
+        "id": 62561,
+        "cantidad": 4,
+        "precio_acumulado": null,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1446900.0,
+        "producto": {
+          "codigo": "22000020537",
+          "descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO CON MANIJA 57X40X50CM ALMACENAMIENTO ALM1540000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12624,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1788,
+            "nombre": "ALM1540000",
+            "ubicacion": "uploads/2024/4/5/14_22_3_146977.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/5/14_22_3_146977.jpg"
+          }
+        }
+      },
+      {
+        "id": 62571,
+        "cantidad": 2,
+        "precio_acumulado": null,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 49350.0,
+        "producto": {
+          "codigo": "22189410488",
+          "descripcion": "LAMINA Y COMPLEMENTO UNION SUPERFICIES ACCESORIO MULTIPLE MAC390000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES HIJO",
+          "categoria_producto_id": 12639,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 511,
+            "nombre": "22189410488",
+            "ubicacion": "uploads/2021/5/8/17_49_5_991071.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/8/17_49_5_991071.jpg"
           }
         }
       }
@@ -15494,7 +16021,7 @@
       {
         "id": 62654,
         "cantidad": 2,
-        "precio_acumulado": 1505700.0,
+        "precio_acumulado": 394.0,
         "lista": "MEPAL_CO_Nacionales",
         "precio": 752850.0,
         "producto": {
@@ -15515,7 +16042,7 @@
       {
         "id": 62653,
         "cantidad": 1,
-        "precio_acumulado": 1131900.0,
+        "precio_acumulado": 296.0,
         "lista": "MEPAL_CO_Nacionales",
         "precio": 1131900.0,
         "producto": {
@@ -15536,7 +16063,7 @@
       {
         "id": 62652,
         "cantidad": 1,
-        "precio_acumulado": 874650.0,
+        "precio_acumulado": 229.0,
         "lista": "MEPAL_CO_Nacionales",
         "precio": 874650.0,
         "producto": {
@@ -15557,7 +16084,7 @@
       {
         "id": 62651,
         "cantidad": 2,
-        "precio_acumulado": 478800.0,
+        "precio_acumulado": 126.0,
         "lista": "MEPAL_CO_Nacionales",
         "precio": 239400.0,
         "producto": {
@@ -15578,7 +16105,7 @@
       {
         "id": 62655,
         "cantidad": 3,
-        "precio_acumulado": 154350.0,
+        "precio_acumulado": 42.0,
         "lista": "MEPAL_CO_Nacionales",
         "precio": 51450.0,
         "producto": {
@@ -34263,6 +34790,1230 @@
     ]
   },
   {
+    "codigo": "22000131671",
+    "descripcion": "PERIMETRAL DE 3 PUESTOS LINK 120 X 60 X 3,0CM FORMICA GROMMET ALUMINIO SIN PANTALLA CON CAJONERA",
+    "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
+    "categoria_tipologia_id": 12748,
+    "lista": "MEPAL_CO_Nacionales",
+    "imagen": {
+      "id": 3897,
+      "nombre": "PERIMETRAL-3P-LINK-SP-CCajonera",
+      "ubicacion": "uploads/2024/4/29/18_25_12_565615.jpg",
+      "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/29/18_25_12_565615.jpg"
+    },
+    "hijos": [
+      {
+        "id": 64014,
+        "cantidad": 3,
+        "precio_acumulado": 3855000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1266300.0,
+        "producto": {
+          "codigo": "22000020538",
+          "descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 57X40X50CM ALMACENAMIENTO ALM1080000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12624,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1888,
+            "nombre": "ALM1080000",
+            "ubicacion": "uploads/2024/6/12/21_8_35_287839.png",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/6/12/21_8_35_287839.png"
+          }
+        }
+      },
+      {
+        "id": 64013,
+        "cantidad": 2,
+        "precio_acumulado": 670000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 351750.0,
+        "producto": {
+          "codigo": "22000032443",
+          "descripcion": "COSTADO SENCILLO INTERMEDIO PINTADO 60CM TIPO LINK ELEMENTOS SOPORTE ELSO100000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 805,
+            "nombre": "22000032443",
+            "ubicacion": "uploads/2021/5/19/19_33_7_761291.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_33_7_761291.jpg"
+          }
+        }
+      },
+      {
+        "id": 64012,
+        "cantidad": 3,
+        "precio_acumulado": 552000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 186900.0,
+        "producto": {
+          "codigo": "22000032566",
+          "descripcion": "VIGA REFUERZO DE 120CM LINK ELEMENTOS SOPORTE ELSO340000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "La viga refuerzo del plano ELSO340000 es rematable en largo L: desde 100 hasta 240cm.",
+          "imagen": {
+            "id": 2690,
+            "nombre": "ELSO340000",
+            "ubicacion": "uploads/2022/12/7/21_6_24_618444.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/12/7/21_6_24_618444.jpg"
+          }
+        }
+      },
+      {
+        "id": 64011,
+        "cantidad": 2,
+        "precio_acumulado": 656000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 344400.0,
+        "producto": {
+          "codigo": "22000032441",
+          "descripcion": "COSTADO SENCILLO TERMINAL PINTADO 60X71CM TIPO LINK ELEMENTOS SOPORTE ELSO090000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2847,
+            "nombre": "ELSO090000",
+            "ubicacion": "uploads/2023/1/14/14_56_40_670556.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/14_56_40_670556.jpg"
+          }
+        }
+      },
+      {
+        "id": 64009,
+        "cantidad": 1,
+        "precio_acumulado": 194000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 189000.0,
+        "producto": {
+          "codigo": "22000011860",
+          "descripcion": "DUCTO BAJANTE PISO INDIVIDUAL 50X10X10CM LINK LKAC190000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 834,
+            "nombre": "22000011860",
+            "ubicacion": "uploads/2021/5/19/19_43_19_526750.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_19_526750.jpg"
+          }
+        }
+      },
+      {
+        "id": 64008,
+        "cantidad": 2,
+        "precio_acumulado": 1320000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 649950.0,
+        "producto": {
+          "codigo": "22000008995",
+          "descripcion": "LINK SUPERFICIE PRINCIPAL TERMINAL UNICOR CON FORMICA 120X60X3CM LKSU010030",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12758,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2963,
+            "nombre": "LKSU010030",
+            "ubicacion": "uploads/2023/2/1/0_58_57_8892.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/2/1/0_58_57_8892.jpg"
+          }
+        }
+      },
+      {
+        "id": 64007,
+        "cantidad": 1,
+        "precio_acumulado": 544000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 527100.0,
+        "producto": {
+          "codigo": "22000008989",
+          "descripcion": "SUPERFICIE PRINCIPAL INTERMEDIA UNICOR CON FORMICA 120X60X3CM LINK LKSU010010",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12758,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2959,
+            "nombre": "LKSU010010",
+            "ubicacion": "uploads/2023/2/1/0_58_56_996851.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/2/1/0_58_56_996851.jpg"
+          }
+        }
+      },
+      {
+        "id": 64006,
+        "cantidad": 3,
+        "precio_acumulado": 672000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 250950.0,
+        "producto": {
+          "codigo": "22000023626",
+          "descripcion": "GROMMET ALUMINIO 4 TOMAS ACCESORIO LINK LKAC250000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2850,
+            "nombre": "LKAC250000",
+            "ubicacion": "uploads/2023/1/14/15_18_25_18443.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_18_25_18443.jpg"
+          }
+        }
+      },
+      {
+        "id": 64010,
+        "cantidad": 3,
+        "precio_acumulado": 1206000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 422100.0,
+        "producto": {
+          "codigo": "22000021979",
+          "descripcion": "KIT CABLEADO INDIVIDUAL 17.5X120X21.5CM LINK LKSO150000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 835,
+            "nombre": "22000021979",
+            "ubicacion": "uploads/2021/5/19/19_43_31_545897.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_31_545897.jpg"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "codigo": "22000131672",
+    "descripcion": "PERIMETRAL DE 3 PUESTOS LINK 150 X 60 X 3,0CM FORMICA GROMMET ALUMINIO SIN PANTALLA CON CAJONERA",
+    "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
+    "categoria_tipologia_id": 12748,
+    "lista": "MEPAL_CO_Nacionales",
+    "imagen": {
+      "id": 3897,
+      "nombre": "PERIMETRAL-3P-LINK-SP-CCajonera",
+      "ubicacion": "uploads/2024/4/29/18_25_12_565615.jpg",
+      "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/29/18_25_12_565615.jpg"
+    },
+    "hijos": [
+      {
+        "id": 64023,
+        "cantidad": 3,
+        "precio_acumulado": 672000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 250950.0,
+        "producto": {
+          "codigo": "22000023626",
+          "descripcion": "GROMMET ALUMINIO 4 TOMAS ACCESORIO LINK LKAC250000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2850,
+            "nombre": "LKAC250000",
+            "ubicacion": "uploads/2023/1/14/15_18_25_18443.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_18_25_18443.jpg"
+          }
+        }
+      },
+      {
+        "id": 64022,
+        "cantidad": 2,
+        "precio_acumulado": 1514000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 711900.0,
+        "producto": {
+          "codigo": "22000008996",
+          "descripcion": "LINK SUPERFICIE PRINCIPAL TERMINAL UNICOR CON FORMICA 150X60X3CM LKSU010030",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12758,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2963,
+            "nombre": "LKSU010030",
+            "ubicacion": "uploads/2023/2/1/0_58_57_8892.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/2/1/0_58_57_8892.jpg"
+          }
+        }
+      },
+      {
+        "id": 64021,
+        "cantidad": 1,
+        "precio_acumulado": 721000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 711900.0,
+        "producto": {
+          "codigo": "22000008990",
+          "descripcion": "SUPERFICIE PRINCIPAL INTERMEDIA UNICOR CON FORMICA 150X60X3CM LINK LKSU010010",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12758,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2959,
+            "nombre": "LKSU010010",
+            "ubicacion": "uploads/2023/2/1/0_58_56_996851.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/2/1/0_58_56_996851.jpg"
+          }
+        }
+      },
+      {
+        "id": 64020,
+        "cantidad": 1,
+        "precio_acumulado": 194000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 189000.0,
+        "producto": {
+          "codigo": "22000011860",
+          "descripcion": "DUCTO BAJANTE PISO INDIVIDUAL 50X10X10CM LINK LKAC190000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 834,
+            "nombre": "22000011860",
+            "ubicacion": "uploads/2021/5/19/19_43_19_526750.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_19_526750.jpg"
+          }
+        }
+      },
+      {
+        "id": 64019,
+        "cantidad": 3,
+        "precio_acumulado": 1350000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 472500.0,
+        "producto": {
+          "codigo": "22000021980",
+          "descripcion": "KIT CABLEADO INDIVIDUAL 17.5X150X21.5CM LINK LKSO150000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 835,
+            "nombre": "22000021979",
+            "ubicacion": "uploads/2021/5/19/19_43_31_545897.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_31_545897.jpg"
+          }
+        }
+      },
+      {
+        "id": 64017,
+        "cantidad": 2,
+        "precio_acumulado": 670000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 351750.0,
+        "producto": {
+          "codigo": "22000032443",
+          "descripcion": "COSTADO SENCILLO INTERMEDIO PINTADO 60CM TIPO LINK ELEMENTOS SOPORTE ELSO100000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 805,
+            "nombre": "22000032443",
+            "ubicacion": "uploads/2021/5/19/19_33_7_761291.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_33_7_761291.jpg"
+          }
+        }
+      },
+      {
+        "id": 64016,
+        "cantidad": 3,
+        "precio_acumulado": 588000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 205800.0,
+        "producto": {
+          "codigo": "22000032568",
+          "descripcion": "VIGA REFUERZO DE 150CM LINK ELEMENTOS SOPORTE ELSO340000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "La viga refuerzo del plano ELSO340000 es rematable en largo L: desde 100 hasta 240cm.",
+          "imagen": {
+            "id": 2690,
+            "nombre": "ELSO340000",
+            "ubicacion": "uploads/2022/12/7/21_6_24_618444.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/12/7/21_6_24_618444.jpg"
+          }
+        }
+      },
+      {
+        "id": 64015,
+        "cantidad": 3,
+        "precio_acumulado": 3855000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1266300.0,
+        "producto": {
+          "codigo": "22000020538",
+          "descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 57X40X50CM ALMACENAMIENTO ALM1080000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12624,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1888,
+            "nombre": "ALM1080000",
+            "ubicacion": "uploads/2024/6/12/21_8_35_287839.png",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/6/12/21_8_35_287839.png"
+          }
+        }
+      },
+      {
+        "id": 64018,
+        "cantidad": 2,
+        "precio_acumulado": 656000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 344400.0,
+        "producto": {
+          "codigo": "22000032441",
+          "descripcion": "COSTADO SENCILLO TERMINAL PINTADO 60X71CM TIPO LINK ELEMENTOS SOPORTE ELSO090000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2847,
+            "nombre": "ELSO090000",
+            "ubicacion": "uploads/2023/1/14/14_56_40_670556.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/14_56_40_670556.jpg"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "codigo": "22000131673",
+    "descripcion": "PERIMETRAL DE 3 PUESTOS LINK 180 X 60 X 3,0CM FORMICA GROMMET ALUMINIO SIN PANTALLA CON CAJONERA",
+    "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
+    "categoria_tipologia_id": 12748,
+    "lista": "MEPAL_CO_Nacionales",
+    "imagen": {
+      "id": 3897,
+      "nombre": "PERIMETRAL-3P-LINK-SP-CCajonera",
+      "ubicacion": "uploads/2024/4/29/18_25_12_565615.jpg",
+      "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/29/18_25_12_565615.jpg"
+    },
+    "hijos": [
+      {
+        "id": 64024,
+        "cantidad": 1,
+        "precio_acumulado": 890400.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 890400.0,
+        "producto": {
+          "codigo": "22000008991",
+          "descripcion": "SUPERFICIE PRINCIPAL INTERMEDIA UNICOR CON FORMICA 180X60X3CM LINK LKSU010010",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12758,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2959,
+            "nombre": "LKSU010010",
+            "ubicacion": "uploads/2023/2/1/0_58_56_996851.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/2/1/0_58_56_996851.jpg"
+          }
+        }
+      },
+      {
+        "id": 64025,
+        "cantidad": 2,
+        "precio_acumulado": 1778700.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 889350.0,
+        "producto": {
+          "codigo": "22000008997",
+          "descripcion": "LINK SUPERFICIE PRINCIPAL TERMINAL UNICOR CON FORMICA 180X60X3CM LKSU010030",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12758,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2963,
+            "nombre": "LKSU010030",
+            "ubicacion": "uploads/2023/2/1/0_58_57_8892.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/2/1/0_58_57_8892.jpg"
+          }
+        }
+      },
+      {
+        "id": 64026,
+        "cantidad": 1,
+        "precio_acumulado": 189000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 189000.0,
+        "producto": {
+          "codigo": "22000011860",
+          "descripcion": "DUCTO BAJANTE PISO INDIVIDUAL 50X10X10CM LINK LKAC190000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 834,
+            "nombre": "22000011860",
+            "ubicacion": "uploads/2021/5/19/19_43_19_526750.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_19_526750.jpg"
+          }
+        }
+      },
+      {
+        "id": 64027,
+        "cantidad": 3,
+        "precio_acumulado": 1606500.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 535500.0,
+        "producto": {
+          "codigo": "22000021981",
+          "descripcion": "KIT CABLEADO INDIVIDUAL 17.5X180X21.5CM LINK LKSO150000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 835,
+            "nombre": "22000021979",
+            "ubicacion": "uploads/2021/5/19/19_43_31_545897.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_31_545897.jpg"
+          }
+        }
+      },
+      {
+        "id": 64029,
+        "cantidad": 2,
+        "precio_acumulado": 688800.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 344400.0,
+        "producto": {
+          "codigo": "22000032441",
+          "descripcion": "COSTADO SENCILLO TERMINAL PINTADO 60X71CM TIPO LINK ELEMENTOS SOPORTE ELSO090000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2847,
+            "nombre": "ELSO090000",
+            "ubicacion": "uploads/2023/1/14/14_56_40_670556.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/14_56_40_670556.jpg"
+          }
+        }
+      },
+      {
+        "id": 64030,
+        "cantidad": 2,
+        "precio_acumulado": 703500.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 351750.0,
+        "producto": {
+          "codigo": "22000032443",
+          "descripcion": "COSTADO SENCILLO INTERMEDIO PINTADO 60CM TIPO LINK ELEMENTOS SOPORTE ELSO100000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 805,
+            "nombre": "22000032443",
+            "ubicacion": "uploads/2021/5/19/19_33_7_761291.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_33_7_761291.jpg"
+          }
+        }
+      },
+      {
+        "id": 64031,
+        "cantidad": 3,
+        "precio_acumulado": 674100.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 224700.0,
+        "producto": {
+          "codigo": "22000032570",
+          "descripcion": "VIGA REFUERZO DE 180CM LINK ELEMENTOS SOPORTE ELSO340000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "La viga refuerzo del plano ELSO340000 es rematable en largo L: desde 100 hasta 240cm.",
+          "imagen": {
+            "id": 2690,
+            "nombre": "ELSO340000",
+            "ubicacion": "uploads/2022/12/7/21_6_24_618444.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/12/7/21_6_24_618444.jpg"
+          }
+        }
+      },
+      {
+        "id": 64032,
+        "cantidad": 3,
+        "precio_acumulado": 3798900.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1266300.0,
+        "producto": {
+          "codigo": "22000020538",
+          "descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 57X40X50CM ALMACENAMIENTO ALM1080000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12624,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1888,
+            "nombre": "ALM1080000",
+            "ubicacion": "uploads/2024/6/12/21_8_35_287839.png",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/6/12/21_8_35_287839.png"
+          }
+        }
+      },
+      {
+        "id": 64028,
+        "cantidad": 3,
+        "precio_acumulado": 752850.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 250950.0,
+        "producto": {
+          "codigo": "22000023626",
+          "descripcion": "GROMMET ALUMINIO 4 TOMAS ACCESORIO LINK LKAC250000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2850,
+            "nombre": "LKAC250000",
+            "ubicacion": "uploads/2023/1/14/15_18_25_18443.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_18_25_18443.jpg"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "codigo": "22000131674",
+    "descripcion": "PERIMETRAL DE 3 PUESTOS LINK 120 X 75 X 3,0CM FORMICA GROMMET ALUMINIO SIN PANTALLA CON CAJONERA",
+    "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
+    "categoria_tipologia_id": 12748,
+    "lista": "MEPAL_CO_Nacionales",
+    "imagen": {
+      "id": 3897,
+      "nombre": "PERIMETRAL-3P-LINK-SP-CCajonera",
+      "ubicacion": "uploads/2024/4/29/18_25_12_565615.jpg",
+      "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/29/18_25_12_565615.jpg"
+    },
+    "hijos": [
+      {
+        "id": 64041,
+        "cantidad": 3,
+        "precio_acumulado": 552000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 186900.0,
+        "producto": {
+          "codigo": "22000032566",
+          "descripcion": "VIGA REFUERZO DE 120CM LINK ELEMENTOS SOPORTE ELSO340000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "La viga refuerzo del plano ELSO340000 es rematable en largo L: desde 100 hasta 240cm.",
+          "imagen": {
+            "id": 2690,
+            "nombre": "ELSO340000",
+            "ubicacion": "uploads/2022/12/7/21_6_24_618444.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/12/7/21_6_24_618444.jpg"
+          }
+        }
+      },
+      {
+        "id": 64039,
+        "cantidad": 3,
+        "precio_acumulado": 3855000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1266300.0,
+        "producto": {
+          "codigo": "22000020538",
+          "descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 57X40X50CM ALMACENAMIENTO ALM1080000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12624,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1888,
+            "nombre": "ALM1080000",
+            "ubicacion": "uploads/2024/6/12/21_8_35_287839.png",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/6/12/21_8_35_287839.png"
+          }
+        }
+      },
+      {
+        "id": 64038,
+        "cantidad": 2,
+        "precio_acumulado": 1858000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 918750.0,
+        "producto": {
+          "codigo": "22000008998",
+          "descripcion": "LINK SUPERFICIE PRINCIPAL TERMINAL UNICOR CON FORMICA 120X75X3 LKSU010040",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12758,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2962,
+            "nombre": "LKSU010040",
+            "ubicacion": "uploads/2023/2/1/0_58_57_6130.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/2/1/0_58_57_6130.jpg"
+          }
+        }
+      },
+      {
+        "id": 64037,
+        "cantidad": 1,
+        "precio_acumulado": 194000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 189000.0,
+        "producto": {
+          "codigo": "22000011860",
+          "descripcion": "DUCTO BAJANTE PISO INDIVIDUAL 50X10X10CM LINK LKAC190000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 834,
+            "nombre": "22000011860",
+            "ubicacion": "uploads/2021/5/19/19_43_19_526750.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_19_526750.jpg"
+          }
+        }
+      },
+      {
+        "id": 64036,
+        "cantidad": 3,
+        "precio_acumulado": 1206000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 422100.0,
+        "producto": {
+          "codigo": "22000021979",
+          "descripcion": "KIT CABLEADO INDIVIDUAL 17.5X120X21.5CM LINK LKSO150000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 835,
+            "nombre": "22000021979",
+            "ubicacion": "uploads/2021/5/19/19_43_31_545897.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_31_545897.jpg"
+          }
+        }
+      },
+      {
+        "id": 64035,
+        "cantidad": 3,
+        "precio_acumulado": 672000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 250950.0,
+        "producto": {
+          "codigo": "22000023626",
+          "descripcion": "GROMMET ALUMINIO 4 TOMAS ACCESORIO LINK LKAC250000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2850,
+            "nombre": "LKAC250000",
+            "ubicacion": "uploads/2023/1/14/15_18_25_18443.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_18_25_18443.jpg"
+          }
+        }
+      },
+      {
+        "id": 64033,
+        "cantidad": 2,
+        "precio_acumulado": 682000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 358050.0,
+        "producto": {
+          "codigo": "22000032444",
+          "descripcion": "COSTADO SENCILLO INTERMEDIO PINTADO 75CM TIPO LINK ELEMENTOS SOPORTE ELSO100000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 805,
+            "nombre": "22000032443",
+            "ubicacion": "uploads/2021/5/19/19_33_7_761291.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_33_7_761291.jpg"
+          }
+        }
+      },
+      {
+        "id": 64040,
+        "cantidad": 1,
+        "precio_acumulado": 718000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 708750.0,
+        "producto": {
+          "codigo": "22000008992",
+          "descripcion": "SUPERFICIE PRINCIPAL INTERMEDIA UNICOR CON FORMICA 120X75X3CM LINK LKSU010020",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12758,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2958,
+            "nombre": "LKSU010020",
+            "ubicacion": "uploads/2023/2/1/0_58_56_989723.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/2/1/0_58_56_989723.jpg"
+          }
+        }
+      },
+      {
+        "id": 64034,
+        "cantidad": 2,
+        "precio_acumulado": 678000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 355950.0,
+        "producto": {
+          "codigo": "22000032442",
+          "descripcion": "COSTADO SENCILLO TERMINAL PINTADO 75X71CM TIPO LINK ELEMENTOS SOPORTE ELSO090000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2847,
+            "nombre": "ELSO090000",
+            "ubicacion": "uploads/2023/1/14/14_56_40_670556.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/14_56_40_670556.jpg"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "codigo": "22000131675",
+    "descripcion": "PERIMETRAL DE 3 PUESTOS LINK 150 X 75 X 3,0CM FORMICA GROMMET ALUMINIO SIN PANTALLA CON CAJONERA",
+    "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
+    "categoria_tipologia_id": 12748,
+    "lista": "MEPAL_CO_Nacionales",
+    "imagen": {
+      "id": 3897,
+      "nombre": "PERIMETRAL-3P-LINK-SP-CCajonera",
+      "ubicacion": "uploads/2024/4/29/18_25_12_565615.jpg",
+      "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/29/18_25_12_565615.jpg"
+    },
+    "hijos": [
+      {
+        "id": 64050,
+        "cantidad": 3,
+        "precio_acumulado": 1350000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 472500.0,
+        "producto": {
+          "codigo": "22000021980",
+          "descripcion": "KIT CABLEADO INDIVIDUAL 17.5X150X21.5CM LINK LKSO150000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 835,
+            "nombre": "22000021979",
+            "ubicacion": "uploads/2021/5/19/19_43_31_545897.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_31_545897.jpg"
+          }
+        }
+      },
+      {
+        "id": 64049,
+        "cantidad": 3,
+        "precio_acumulado": 3855000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1266300.0,
+        "producto": {
+          "codigo": "22000020538",
+          "descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 57X40X50CM ALMACENAMIENTO ALM1080000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12624,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1888,
+            "nombre": "ALM1080000",
+            "ubicacion": "uploads/2024/6/12/21_8_35_287839.png",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/6/12/21_8_35_287839.png"
+          }
+        }
+      },
+      {
+        "id": 64048,
+        "cantidad": 1,
+        "precio_acumulado": 1026000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1018500.0,
+        "producto": {
+          "codigo": "22000008993",
+          "descripcion": "SUPERFICIE PRINCIPAL INTERMEDIA UNICOR CON FORMICA 150X75X3CM LINK  LKSU010020",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12758,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2958,
+            "nombre": "LKSU010020",
+            "ubicacion": "uploads/2023/2/1/0_58_56_989723.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/2/1/0_58_56_989723.jpg"
+          }
+        }
+      },
+      {
+        "id": 64046,
+        "cantidad": 1,
+        "precio_acumulado": 194000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 189000.0,
+        "producto": {
+          "codigo": "22000011860",
+          "descripcion": "DUCTO BAJANTE PISO INDIVIDUAL 50X10X10CM LINK LKAC190000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 834,
+            "nombre": "22000011860",
+            "ubicacion": "uploads/2021/5/19/19_43_19_526750.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_19_526750.jpg"
+          }
+        }
+      },
+      {
+        "id": 64045,
+        "cantidad": 3,
+        "precio_acumulado": 672000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 250950.0,
+        "producto": {
+          "codigo": "22000023626",
+          "descripcion": "GROMMET ALUMINIO 4 TOMAS ACCESORIO LINK LKAC250000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2850,
+            "nombre": "LKAC250000",
+            "ubicacion": "uploads/2023/1/14/15_18_25_18443.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_18_25_18443.jpg"
+          }
+        }
+      },
+      {
+        "id": 64044,
+        "cantidad": 2,
+        "precio_acumulado": 678000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 355950.0,
+        "producto": {
+          "codigo": "22000032442",
+          "descripcion": "COSTADO SENCILLO TERMINAL PINTADO 75X71CM TIPO LINK ELEMENTOS SOPORTE ELSO090000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2847,
+            "nombre": "ELSO090000",
+            "ubicacion": "uploads/2023/1/14/14_56_40_670556.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/14_56_40_670556.jpg"
+          }
+        }
+      },
+      {
+        "id": 64043,
+        "cantidad": 2,
+        "precio_acumulado": 682000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 358050.0,
+        "producto": {
+          "codigo": "22000032444",
+          "descripcion": "COSTADO SENCILLO INTERMEDIO PINTADO 75CM TIPO LINK ELEMENTOS SOPORTE ELSO100000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 805,
+            "nombre": "22000032443",
+            "ubicacion": "uploads/2021/5/19/19_33_7_761291.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_33_7_761291.jpg"
+          }
+        }
+      },
+      {
+        "id": 64047,
+        "cantidad": 2,
+        "precio_acumulado": 2378000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1164450.0,
+        "producto": {
+          "codigo": "22000008999",
+          "descripcion": "LINK SUPERFICIE PRINCIPAL TERMINAL UNICOR CON FORMICA 150X75X3CM LKSU010040",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12758,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2962,
+            "nombre": "LKSU010040",
+            "ubicacion": "uploads/2023/2/1/0_58_57_6130.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/2/1/0_58_57_6130.jpg"
+          }
+        }
+      },
+      {
+        "id": 64042,
+        "cantidad": 3,
+        "precio_acumulado": 588000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 205800.0,
+        "producto": {
+          "codigo": "22000032568",
+          "descripcion": "VIGA REFUERZO DE 150CM LINK ELEMENTOS SOPORTE ELSO340000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "La viga refuerzo del plano ELSO340000 es rematable en largo L: desde 100 hasta 240cm.",
+          "imagen": {
+            "id": 2690,
+            "nombre": "ELSO340000",
+            "ubicacion": "uploads/2022/12/7/21_6_24_618444.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/12/7/21_6_24_618444.jpg"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "codigo": "22000131676",
+    "descripcion": "PERIMETRAL DE 3 PUESTOS LINK 180 X 75 X 3,0CM FORMICA GROMMET ALUMINIO SIN PANTALLA CON CAJONERA",
+    "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
+    "categoria_tipologia_id": 12748,
+    "lista": "MEPAL_CO_Nacionales",
+    "imagen": {
+      "id": 3897,
+      "nombre": "PERIMETRAL-3P-LINK-SP-CCajonera",
+      "ubicacion": "uploads/2024/4/29/18_25_12_565615.jpg",
+      "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/4/29/18_25_12_565615.jpg"
+    },
+    "hijos": [
+      {
+        "id": 64059,
+        "cantidad": 1,
+        "precio_acumulado": 194000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 189000.0,
+        "producto": {
+          "codigo": "22000011860",
+          "descripcion": "DUCTO BAJANTE PISO INDIVIDUAL 50X10X10CM LINK LKAC190000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 834,
+            "nombre": "22000011860",
+            "ubicacion": "uploads/2021/5/19/19_43_19_526750.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_19_526750.jpg"
+          }
+        }
+      },
+      {
+        "id": 64058,
+        "cantidad": 3,
+        "precio_acumulado": 1530000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 535500.0,
+        "producto": {
+          "codigo": "22000021981",
+          "descripcion": "KIT CABLEADO INDIVIDUAL 17.5X180X21.5CM LINK LKSO150000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 835,
+            "nombre": "22000021979",
+            "ubicacion": "uploads/2021/5/19/19_43_31_545897.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_43_31_545897.jpg"
+          }
+        }
+      },
+      {
+        "id": 64056,
+        "cantidad": 3,
+        "precio_acumulado": 642000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 224700.0,
+        "producto": {
+          "codigo": "22000032570",
+          "descripcion": "VIGA REFUERZO DE 180CM LINK ELEMENTOS SOPORTE ELSO340000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "La viga refuerzo del plano ELSO340000 es rematable en largo L: desde 100 hasta 240cm.",
+          "imagen": {
+            "id": 2690,
+            "nombre": "ELSO340000",
+            "ubicacion": "uploads/2022/12/7/21_6_24_618444.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/12/7/21_6_24_618444.jpg"
+          }
+        }
+      },
+      {
+        "id": 64055,
+        "cantidad": 3,
+        "precio_acumulado": 672000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 250950.0,
+        "producto": {
+          "codigo": "22000023626",
+          "descripcion": "GROMMET ALUMINIO 4 TOMAS ACCESORIO LINK LKAC250000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2850,
+            "nombre": "LKAC250000",
+            "ubicacion": "uploads/2023/1/14/15_18_25_18443.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_18_25_18443.jpg"
+          }
+        }
+      },
+      {
+        "id": 64054,
+        "cantidad": 3,
+        "precio_acumulado": 3855000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1266300.0,
+        "producto": {
+          "codigo": "22000020538",
+          "descripcion": "CAJONERA MOVIL 1 GAVETA 1 ARCHIVO FRENTE METALICO MANIJA EMBEBIDA 57X40X50CM ALMACENAMIENTO ALM1080000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12624,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 1888,
+            "nombre": "ALM1080000",
+            "ubicacion": "uploads/2024/6/12/21_8_35_287839.png",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2024/6/12/21_8_35_287839.png"
+          }
+        }
+      },
+      {
+        "id": 64053,
+        "cantidad": 2,
+        "precio_acumulado": 678000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 355950.0,
+        "producto": {
+          "codigo": "22000032442",
+          "descripcion": "COSTADO SENCILLO TERMINAL PINTADO 75X71CM TIPO LINK ELEMENTOS SOPORTE ELSO090000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2847,
+            "nombre": "ELSO090000",
+            "ubicacion": "uploads/2023/1/14/14_56_40_670556.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/14_56_40_670556.jpg"
+          }
+        }
+      },
+      {
+        "id": 64052,
+        "cantidad": 2,
+        "precio_acumulado": 2432000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1192800.0,
+        "producto": {
+          "codigo": "22000009072",
+          "descripcion": "LINK SUPERFICIE PRINCIPAL TERMINAL UNICOR CON FORMICA 180X75X3 LKSU010040",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12758,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2962,
+            "nombre": "LKSU010040",
+            "ubicacion": "uploads/2023/2/1/0_58_57_6130.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/2/1/0_58_57_6130.jpg"
+          }
+        }
+      },
+      {
+        "id": 64051,
+        "cantidad": 2,
+        "precio_acumulado": 682000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 358050.0,
+        "producto": {
+          "codigo": "22000032444",
+          "descripcion": "COSTADO SENCILLO INTERMEDIO PINTADO 75CM TIPO LINK ELEMENTOS SOPORTE ELSO100000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12661,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 805,
+            "nombre": "22000032443",
+            "ubicacion": "uploads/2021/5/19/19_33_7_761291.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/19_33_7_761291.jpg"
+          }
+        }
+      },
+      {
+        "id": 64057,
+        "cantidad": 1,
+        "precio_acumulado": 1216000.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 1191750.0,
+        "producto": {
+          "codigo": "22000008994",
+          "descripcion": "SUPERFICIE PRINCIPAL INTERMEDIA UNICOR CON FORMICA 180X75X3CM LINK LKSU010020",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12758,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 2958,
+            "nombre": "LKSU010020",
+            "ubicacion": "uploads/2023/2/1/0_58_56_989723.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/2/1/0_58_56_989723.jpg"
+          }
+        }
+      }
+    ]
+  },
+  {
     "codigo": "22000131677",
     "descripcion": "PERIMETRAL DE 3 PUESTOS LINK 120 X 60 X 3,0CM MELAMINA GROMMET ALUMINIO SIN PANTALLA SIN ALMACENAMIENTO",
     "categoria_costos": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.TIPOLOGIA MUEBLES",
@@ -52041,7 +53792,7 @@
       {
         "id": 66119,
         "cantidad": 1,
-        "precio_acumulado": 722400.0,
+        "precio_acumulado": 703000.0,
         "lista": "MEPAL_CO_Nacionales",
         "precio": 703000.0,
         "producto": {
@@ -86004,6 +87755,27 @@
             "urlubicacion": "https://espacios.carvajal.com/media/uploads/2023/1/14/15_18_25_18443.jpg"
           }
         }
+      },
+      {
+        "id": 68052,
+        "cantidad": 6,
+        "precio_acumulado": 5644800.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 940800.0,
+        "producto": {
+          "codigo": "22000133941",
+          "descripcion": "PEDESTAL FIJO METALICO 2S+1A 37X40X71CM FRENTE EMBEBIDO MEPAL 2KAL001000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12612,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 731,
+            "nombre": "2KAL001000",
+            "ubicacion": "uploads/2021/5/19/0_6_46_557370.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/0_6_46_557370.jpg"
+          }
+        }
       }
     ]
   },
@@ -87417,6 +89189,27 @@
         }
       },
       {
+        "cantidad": 6,
+        "id": 68052,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 940800.0,
+        "precio_acumulado": 5644800.0,
+        "producto": {
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12612,
+          "codigo": "22000133941",
+          "descripcion": "PEDESTAL FIJO METALICO 2S+1A 37X40X71CM FRENTE EMBEBIDO MEPAL 2KAL001000",
+          "especificaciones_id": null,
+          "imagen": {
+            "id": 731,
+            "nombre": "2KAL001000",
+            "ubicacion": "uploads/2021/5/19/0_6_46_557370.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/0_6_46_557370.jpg"
+          },
+          "observaciones": ""
+        }
+      },
+      {
         "id": 68280,
         "cantidad": 2,
         "precio_acumulado": 130200.0,
@@ -87547,27 +89340,6 @@
           "especificaciones_id": null,
           "observaciones": "",
           "imagen": null
-        }
-      },
-      {
-        "cantidad": 6,
-        "id": 68052,
-        "lista": "MEPAL_CO_Nacionales",
-        "precio": 940800.0,
-        "precio_acumulado": 5644800.0,
-        "producto": {
-          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
-          "categoria_producto_id": 12612,
-          "codigo": "22000133941",
-          "descripcion": "PEDESTAL FIJO METÁLICO 2S+1A 37X40X71CM FRENTE EMBEBIDO MEPAL 2KAL001000",
-          "especificaciones_id": null,
-          "imagen": {
-            "id": 731,
-            "nombre": "2KAL001000",
-            "ubicacion": "uploads/2021/5/19/0_6_46_557370.jpg",
-            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/0_6_46_557370.jpg"
-          },
-          "observaciones": ""
         }
       }
     ]
@@ -91318,6 +93090,27 @@
         }
       },
       {
+        "id": 68052,
+        "cantidad": 4,
+        "precio_acumulado": 3763200.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 940800.0,
+        "producto": {
+          "codigo": "22000133941",
+          "descripcion": "PEDESTAL FIJO METALICO 2S+1A 37X40X71CM FRENTE EMBEBIDO MEPAL 2KAL001000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12612,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 731,
+            "nombre": "2KAL001000",
+            "ubicacion": "uploads/2021/5/19/0_6_46_557370.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/0_6_46_557370.jpg"
+          }
+        }
+      },
+      {
         "id": 68915,
         "cantidad": 2,
         "precio_acumulado": 1077300.0,
@@ -91432,27 +93225,6 @@
             "ubicacion": "uploads/2022/2/28/20_36_58_693345.jpg",
             "urlubicacion": "https://espacios.carvajal.com/media/uploads/2022/2/28/20_36_58_693345.jpg"
           }
-        }
-      },
-      {
-        "cantidad": 4,
-        "id": 68052,
-        "lista": "MEPAL_CO_Nacionales",
-        "precio": 940800.0,
-        "precio_acumulado": 3763200.0,
-        "producto": {
-          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
-          "categoria_producto_id": 12612,
-          "codigo": "22000133941",
-          "descripcion": "PEDESTAL FIJO METÁLICO 2S+1A 37X40X71CM FRENTE EMBEBIDO MEPAL 2KAL001000",
-          "especificaciones_id": null,
-          "imagen": {
-            "id": 731,
-            "nombre": "2KAL001000",
-            "ubicacion": "uploads/2021/5/19/0_6_46_557370.jpg",
-            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/0_6_46_557370.jpg"
-          },
-          "observaciones": ""
         }
       }
     ]
@@ -106131,6 +107903,27 @@
         }
       },
       {
+        "id": 68052,
+        "cantidad": 2,
+        "precio_acumulado": 1881600.0,
+        "lista": "MEPAL_CO_Nacionales",
+        "precio": 940800.0,
+        "producto": {
+          "codigo": "22000133941",
+          "descripcion": "PEDESTAL FIJO METALICO 2S+1A 37X40X71CM FRENTE EMBEBIDO MEPAL 2KAL001000",
+          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
+          "categoria_producto_id": 12612,
+          "especificaciones_id": null,
+          "observaciones": "",
+          "imagen": {
+            "id": 731,
+            "nombre": "2KAL001000",
+            "ubicacion": "uploads/2021/5/19/0_6_46_557370.jpg",
+            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/0_6_46_557370.jpg"
+          }
+        }
+      },
+      {
         "id": 69814,
         "cantidad": 1,
         "precio_acumulado": 267750.0,
@@ -106229,27 +108022,6 @@
           "especificaciones_id": null,
           "observaciones": "",
           "imagen": null
-        }
-      },
-      {
-        "cantidad": 2,
-        "id": 68052,
-        "lista": "MEPAL_CO_Nacionales",
-        "precio": 940800.0,
-        "precio_acumulado": 1881600.0,
-        "producto": {
-          "categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
-          "categoria_producto_id": 12612,
-          "codigo": "22000133941",
-          "descripcion": "PEDESTAL FIJO METÁLICO 2S+1A 37X40X71CM FRENTE EMBEBIDO MEPAL 2KAL001000",
-          "especificaciones_id": null,
-          "imagen": {
-            "id": 731,
-            "nombre": "2KAL001000",
-            "ubicacion": "uploads/2021/5/19/0_6_46_557370.jpg",
-            "urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/0_6_46_557370.jpg"
-          },
-          "observaciones": ""
         }
       }
     ]
@@ -120796,7 +122568,7 @@
       {
         "id": 70618,
         "cantidad": 1,
-        "precio_acumulado": 688000.0,
+        "precio_acumulado": 703000.0,
         "lista": "MEPAL_CO_Nacionales",
         "precio": 703000.0,
         "producto": {
@@ -120812,7 +122584,7 @@
       {
         "id": 70617,
         "cantidad": 1,
-        "precio_acumulado": 92000.0,
+        "precio_acumulado": 96600.0,
         "lista": "MEPAL_CO_Nacionales",
         "precio": 96600.0,
         "producto": {
@@ -120828,7 +122600,7 @@
       {
         "id": 70616,
         "cantidad": 1,
-        "precio_acumulado": 164000.0,
+        "precio_acumulado": 172200.0,
         "lista": "MEPAL_CO_Nacionales",
         "precio": 172200.0,
         "producto": {
@@ -120844,7 +122616,7 @@
       {
         "id": 70614,
         "cantidad": 2,
-        "precio_acumulado": 510000.0,
+        "precio_acumulado": 535500.0,
         "lista": "MEPAL_CO_Nacionales",
         "precio": 267750.0,
         "producto": {
@@ -120860,7 +122632,7 @@
       {
         "id": 70615,
         "cantidad": 1,
-        "precio_acumulado": 323000.0,
+        "precio_acumulado": 339150.0,
         "lista": "MEPAL_CO_Nacionales",
         "precio": 339150.0,
         "producto": {
@@ -120876,7 +122648,7 @@
       {
         "id": 70619,
         "cantidad": 1,
-        "precio_acumulado": 6000.0,
+        "precio_acumulado": 6300.0,
         "lista": "MEPAL_CO_Nacionales",
         "precio": 6300.0,
         "producto": {

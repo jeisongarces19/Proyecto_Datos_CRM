@@ -97,29 +97,6 @@
 2- El identificador id de imágenes debe ser el mismo que el identificador **"producto-código"** de precios detalle **(Crear Script)**
 22000125226 - Cambio en imagenes
 
-3- Agregar hijo a estas 3 tipologias
-notas: tipologías a las que hay que agregar el pedestal: 22000133384, 22000133460, 22000133558 , el programa es: {
-"cantidad": 4,
-"id": 68052,
-"lista": "MEPAL_CO_Nacionales",
-"precio": 940800.0,
-"precio_acumulado": 3763200.0,
-"producto": {
-"categoria_costo": "PRODUCTO TERMINADO.PLANTA MEPAL.MANUFACTURA.MUEBLES",
-"categoria_producto_id": 12612,
-"codigo": "22000133941",
-"descripcion": "PEDESTAL FIJO METÁLICO 2S+1A 37X40X71CM FRENTE EMBEBIDO MEPAL 2KAL001000",
-"especificaciones_id": null,
-"imagen": {
-"id": 731,
-"nombre": "2KAL001000",
-"ubicacion": "uploads/2021/5/19/0_6_46_557370.jpg",
-"urlubicacion": "https://espacios.carvajal.com/media/uploads/2021/5/19/0_6_46_557370.jpg"
-},
-"observaciones": ""
-}
-}
-
 ____________________________________________________________________
 
 NOTAS HISTORICO:
