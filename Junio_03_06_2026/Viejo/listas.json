@@ -1,0 +1,26 @@
+[
+  {
+    "estado": true,
+    "moneda": "COP",
+    "nombre": "MEPAL_CO_Nacionales",
+    "pais": "COLOMBIA"
+  },
+  {
+    "estado": true,
+    "moneda": "USD",
+    "nombre": "MEPAL_CO_Nacionales USD",
+    "pais": "COLOMBIA"
+  },
+  {
+    "estado": true,
+    "moneda": "USD",
+    "nombre": "MEPAL_CO_Sur America",
+    "pais": "COLOMBIA"
+  },
+  {
+    "estado": true,
+    "moneda": "USD",
+    "nombre": "MEPAL_EC_Nacionales",
+    "pais": "ECUADOR"
+  }
+]
