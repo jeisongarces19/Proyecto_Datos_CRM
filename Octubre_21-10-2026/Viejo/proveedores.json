@@ -1,0 +1,517 @@
+[
+  {
+    "categoria_general": "SERVICIOS BPO",
+    "id": 105,
+    "nombre": "MANO DE OBRA"
+  },
+  {
+    "categoria_general": "SERVICIOS BPO",
+    "id": 106,
+    "nombre": "MANTENIMIENTOS"
+  },
+  {
+    "categoria_general": "SERVICIOS BPO",
+    "id": 107,
+    "nombre": "OBRA CIVIL"
+  },
+  {
+    "categoria_general": "SERVICIOS BPO",
+    "id": 108,
+    "nombre": "REFACCION"
+  },
+  {
+    "categoria_general": "SERVICIOS BPO",
+    "id": 109,
+    "nombre": "REUBICACION"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 110,
+    "nombre": "DAWON"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 111,
+    "nombre": "DUOBACK"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 112,
+    "nombre": "EBENEZER"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 113,
+    "nombre": "GABER"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 114,
+    "nombre": "INORCA"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 115,
+    "nombre": "OFIPARTES"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 116,
+    "nombre": "OKAMURA"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 117,
+    "nombre": "PROVEEDORES VARIOS"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 118,
+    "nombre": "PROVEFABRICA"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 120,
+    "nombre": "VALO"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES COMERCIALIZADOS",
+    "id": 121,
+    "nombre": "PROVEEDORES VARIOS"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 122,
+    "nombre": "ACCESORIO"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 123,
+    "nombre": "ALMACENAMIENTO"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 124,
+    "nombre": "ALTURA VARIABLE"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 125,
+    "nombre": "ARCHIVADOR LATERAL"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 126,
+    "nombre": "BANCA"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 127,
+    "nombre": "BIBLIOTECA"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 128,
+    "nombre": "CAJONERA"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 129,
+    "nombre": "CARRO"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 130,
+    "nombre": "ELEMENTO DE REPOSICION"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 131,
+    "nombre": "ESTANTERIA"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 132,
+    "nombre": "FALDA"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 133,
+    "nombre": "GABINETE"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 134,
+    "nombre": "GENERAL"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 135,
+    "nombre": "HOUSE"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 137,
+    "nombre": "LOCKER"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 138,
+    "nombre": "MESA"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 140,
+    "nombre": "MESA-OHM"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 141,
+    "nombre": "MODULAR"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 142,
+    "nombre": "MULTIARCHIVO"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 144,
+    "nombre": "PANEL"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 145,
+    "nombre": "PANTALLA"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 146,
+    "nombre": "PEDESTAL"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 147,
+    "nombre": "POLTRONA"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 148,
+    "nombre": "PRECABLEADO"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 149,
+    "nombre": "PUFF"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 150,
+    "nombre": "REPISA"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 151,
+    "nombre": "SOPORTE"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 152,
+    "nombre": "SUPERFICIE"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES DE OFICINA",
+    "id": 153,
+    "nombre": "TABLERO"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES PANELERIA",
+    "id": 154,
+    "nombre": "ACCESORIO"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES PANELERIA",
+    "id": 155,
+    "nombre": "BALDOSA"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES PANELERIA",
+    "id": 156,
+    "nombre": "ELEMENTO DE REPOSICION"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES PANELERIA",
+    "id": 157,
+    "nombre": "KIT UNION"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES PANELERIA",
+    "id": 158,
+    "nombre": "MARCO"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES PANELERIA",
+    "id": 159,
+    "nombre": "MARCO PUERTA"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES PANELERIA",
+    "id": 160,
+    "nombre": "NAVE PUERTA"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 162,
+    "nombre": "MESAS CIRCULARES"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 163,
+    "nombre": "MESAS DE JUNTAS"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES PANELERIA",
+    "id": 168,
+    "nombre": "PANEL"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 183,
+    "nombre": "MODULO VIDEO CONFERENCIA"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 188,
+    "nombre": "PUNTAS RECTAS"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 189,
+    "nombre": "PUNTAS REDONDAS"
+  },
+  {
+    "categoria_general": "TK SOCIAL",
+    "id": 190,
+    "nombre": "CABINA"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 191,
+    "nombre": "POLTRONAS MILA"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 193,
+    "nombre": "ISLA DE 6"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 194,
+    "nombre": "ISLA DE 4"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 195,
+    "nombre": "ISLA DE 2"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 196,
+    "nombre": "PERIMETRAL 3 PUESTOS"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 197,
+    "nombre": "PERIMETRAL 1 PUESTO"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 198,
+    "nombre": "PUESTOS GERENCIALES Y JEFATURAS"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 199,
+    "nombre": "SIN BRAZOS"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 200,
+    "nombre": "CON BRAZOS"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 201,
+    "nombre": "LINK"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 202,
+    "nombre": "KONCISA"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 203,
+    "nombre": "TEK"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 204,
+    "nombre": "CLAK"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 209,
+    "nombre": "ISLA DE 8"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 210,
+    "nombre": "ISLA DE 10"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 211,
+    "nombre": "PERIMETRAL 2 PUESTOS"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 212,
+    "nombre": "PERIMETRAL 4 PUESTOS"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 213,
+    "nombre": "POLTRONAS CLAK"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 218,
+    "nombre": "ALMACENAMIENTO"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 220,
+    "nombre": "CON GIRO"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 221,
+    "nombre": "PUNTOS DE IMPRESION"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 222,
+    "nombre": "CON MESA"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 223,
+    "nombre": "CON PANEL"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 225,
+    "nombre": "MESAS ABATIBLES"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 227,
+    "nombre": "POLTRONAS MOREA"
+  },
+  {
+    "categoria_general": "SERVICIOS BPO",
+    "id": 261,
+    "nombre": "MATERIAL DE EMPAQUE"
+  },
+  {
+    "categoria_general": "SISTEMAS MODULARES PANELERIA",
+    "id": 262,
+    "nombre": "NAO-JUNTOS OHM"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 263,
+    "nombre": "ISLA DE 3"
+  },
+  {
+    "categoria_general": "MUEBLES PARA SECTOR SALUD",
+    "id": 264,
+    "nombre": "MOREA"
+  },
+  {
+    "categoria_general": "LABORATORIO",
+    "id": 266,
+    "nombre": "ACCESORIO"
+  },
+  {
+    "categoria_general": "LABORATORIO",
+    "id": 267,
+    "nombre": "ALMACENAMIENTO"
+  },
+  {
+    "categoria_general": "LABORATORIO",
+    "id": 268,
+    "nombre": "ELEMENTOS DE REPOSICION"
+  },
+  {
+    "categoria_general": "LABORATORIO",
+    "id": 269,
+    "nombre": "SOPORTE"
+  },
+  {
+    "categoria_general": "LABORATORIO",
+    "id": 270,
+    "nombre": "SUPERFICIE"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 272,
+    "nombre": "AREAS COLABORATIVAS"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 273,
+    "nombre": "BARRAS y CAFETERIA"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 274,
+    "nombre": "MESAS ALTURA VARIABLE"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 275,
+    "nombre": "KONCISA PLUS"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 276,
+    "nombre": "COMPENDIO"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 277,
+    "nombre": "MANGLAR"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 278,
+    "nombre": "BOSQUEMA"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 279,
+    "nombre": "INTEGRA"
+  },
+  {
+    "categoria_general": "TIPOLOGIAS",
+    "id": 280,
+    "nombre": "LABORATORIO"
+  },
+  {
+    "categoria_general": "SILLAS Y MESAS",
+    "id": 281,
+    "nombre": "OMP"
+  }
+]
