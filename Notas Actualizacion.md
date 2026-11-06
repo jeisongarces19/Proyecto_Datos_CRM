@@ -102,3 +102,5 @@ ____________________________________________________________________
 NOTAS HISTORICO:
 
 - Se le cambio el nombre por el codigo a la cabina FONO para que funcione la imagen (22000125226).
+
+- Precios-detalle.json cambiar ruta https por http
